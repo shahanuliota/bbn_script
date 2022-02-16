@@ -1,0 +1,1674 @@
+[
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "95 g tin tuna in oil/ flavour",
+    "itemName": "tin tuna in oil/ flavour",
+    "sheetName": "Lunch",
+    "quantity": "95.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "60 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Lunch",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1 1/2 cups mixed salad",
+    "itemName": "1/2 mixed salad",
+    "sheetName": "Lunch",
+    "quantity": "5.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "4 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "Lunch",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch (ham):",
+    "fullData": "90 g sliced lean ham/ turkey off bone",
+    "itemName": "sliced lean ham/ turkey off bone",
+    "sheetName": "Lunch",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light lunch (ham):",
+    "fullData": "2x corn thins",
+    "itemName": "corn thins",
+    "sheetName": "Lunch",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch (ham):",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch (ham):",
+    "fullData": "2 tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "Lunch",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "chicken sausage and salad:",
+    "fullData": "2 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "Lunch",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausage and salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken sausage and salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch (tuna):",
+    "fullData": "4 cruskits/corn thins",
+    "itemName": "cruskits/corn thins",
+    "sheetName": "Lunch",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch (tuna):",
+    "fullData": "95 g tin tuna in oil/flavoured",
+    "itemName": "tin tuna in oil/flavoured",
+    "sheetName": "Lunch",
+    "quantity": "95.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Savoury mince",
+    "fullData": "90 g lean turkey mince",
+    "itemName": "lean turkey mince",
+    "sheetName": "Lunch",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Savoury mince",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Lunch",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Savoury mince",
+    "fullData": "0.50 cup tomato passata",
+    "itemName": "tomato passata",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Savoury mince",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "80 g chicken (raw)",
+    "itemName": "80  chicken (raw)",
+    "sheetName": "Lunch",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "1.5 cups cooked Asian vegetables",
+    "itemName": "cooked Asian vegetables",
+    "sheetName": "Lunch",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "1/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "Lunch",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "6 cashews",
+    "itemName": "cashews",
+    "sheetName": "Lunch",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "90 g lean beef mince",
+    "itemName": "lean beef mince",
+    "sheetName": "Lunch",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "1/4 cup black beans",
+    "itemName": "black beans",
+    "sheetName": "Lunch",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "0.50 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "1/4 avocado.",
+    "itemName": "avocado.",
+    "sheetName": "Lunch",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Salmon wrap:",
+    "fullData": "60 g Smoked salmon",
+    "itemName": "Smoked salmon",
+    "sheetName": "Lunch",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Salmon wrap:",
+    "fullData": "1 Simson’s pantry wrap",
+    "itemName": "Simson’s pantry wrap",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Salmon wrap:",
+    "fullData": "1/2 cup grated carrot",
+    "itemName": "grated carrot",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Salmon wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Salmon wrap:",
+    "fullData": "1/4 avocado.",
+    "itemName": "avocado.",
+    "sheetName": "Lunch",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Tuna and Beans:",
+    "fullData": "95 g tuna in oil/flavoured",
+    "itemName": "tuna in oil/flavoured",
+    "sheetName": "Lunch",
+    "quantity": "95.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Tuna and Beans:",
+    "fullData": "0.50 cup of 4-bean mix",
+    "itemName": "0.50 of 4-bean mix",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "95 g tin tuna in oil/ flavour",
+    "itemName": "tin tuna in oil/ flavour",
+    "sheetName": "Lunch",
+    "quantity": "95.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and salad Wrap:",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Lunch",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken and salad Wrap:",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and salad Wrap:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken and salad Wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and salad Wrap:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "Lunch",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and salad Wrap:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Light Lunch:",
+    "fullData": "135 g sliced lean ham/ turkey off bone",
+    "itemName": "sliced lean ham/ turkey off bone",
+    "sheetName": "Lunch",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light Lunch:",
+    "fullData": "2x corn thins",
+    "itemName": "corn thins",
+    "sheetName": "Lunch",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light Lunch:",
+    "fullData": "1/2 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Light Lunch:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light Lunch:",
+    "fullData": "3 tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "3 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "1/4 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "Lunch",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "90 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "Lunch",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "3 Tbsp lite cream cheese",
+    "itemName": "lite cream cheese",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "120 g (raw) chicken/beef",
+    "itemName": "(raw) chicken/beef",
+    "sheetName": "Lunch",
+    "quantity": "120.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "3 cups raw vegetables",
+    "itemName": "raw vegetables",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "2/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "Lunch",
+    "quantity": "0.6666666666666666",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "9 cashews",
+    "itemName": "cashews",
+    "sheetName": "Lunch",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "155 g (raw) lean beef mince",
+    "itemName": "(raw) lean beef mince",
+    "sheetName": "Lunch",
+    "quantity": "155.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "1.5 cups tinned Tomatoes",
+    "itemName": "tinned Tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "1/2 cup kidney beans",
+    "itemName": "kidney beans",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "3 Tbsp avocado",
+    "itemName": "avocado",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "chicken soup",
+    "fullData": "3 cups raw vegetables",
+    "itemName": "raw vegetables",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken soup",
+    "fullData": "1/2 cup lentils",
+    "itemName": "lentils",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken soup",
+    "fullData": "1/2 L massel stock",
+    "itemName": "massel stock",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "L"
+  },
+  {
+    "foodName": "chicken soup",
+    "fullData": "80 g raw chicken",
+    "itemName": "raw chicken",
+    "sheetName": "Lunch",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken soup",
+    "fullData": "1.5 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Lunch",
+    "quantity": "1.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "homemade pizza",
+    "fullData": "1 Mt. Bread wrap",
+    "itemName": "Mt. Bread wrap",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "homemade pizza",
+    "fullData": "45 g lean ham",
+    "itemName": "lean ham",
+    "sheetName": "Lunch",
+    "quantity": "45.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "homemade pizza",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "homemade pizza",
+    "fullData": "1/2 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "homemade pizza",
+    "fullData": "5 kalamate olives",
+    "itemName": "kalamate olives",
+    "sheetName": "Lunch",
+    "quantity": "5.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "homemade pizza",
+    "fullData": "2 slices Bega 50% less fat cheese",
+    "itemName": "Bega 50% less fat cheese",
+    "sheetName": "Lunch",
+    "quantity": "2.0",
+    "unitName": "slices"
+  },
+  {
+    "foodName": "Seafood lunch:",
+    "fullData": "165 g (raw) seafood mix or prawns",
+    "itemName": "(raw) seafood mix or prawns",
+    "sheetName": "Lunch",
+    "quantity": "165.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Seafood lunch:",
+    "fullData": "2 cups steamed asperagus",
+    "itemName": "steamed asperagus",
+    "sheetName": "Lunch",
+    "quantity": "2.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Seafood lunch:",
+    "fullData": "1.5 steamed broccolini",
+    "itemName": "steamed broccolini",
+    "sheetName": "Lunch",
+    "quantity": "1.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Seafood lunch:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Seafood lunch:",
+    "fullData": "3 tsp pesto mixed through",
+    "itemName": "pesto mixed through",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 Bocconcini balls (60g)",
+    "itemName": "Bocconcini balls (60g)",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "8 cherry tomatoes halved",
+    "itemName": "cherry tomatoes halved",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 cups raw spinach leaves",
+    "itemName": "raw spinach leaves",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1/4 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "Lunch",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Tuna salad",
+    "fullData": "2x 95 g tin tuna in oil/ flavour",
+    "itemName": "95 tin tuna in oil/ flavour",
+    "sheetName": "Lunch",
+    "quantity": "190.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Tuna salad",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Tuna salad",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Tuna salad",
+    "fullData": "1/2 cup four bean mix",
+    "itemName": "four bean mix",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "120 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Lunch",
+    "quantity": "120.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "2 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "Lunch",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "180 g sliced lean ham/ turkey off bone",
+    "itemName": "sliced lean ham/ turkey off bone",
+    "sheetName": "Lunch",
+    "quantity": "180.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "2 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "Lunch",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "1 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "4 tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "Lunch",
+    "quantity": "4.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "4 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "Lunch",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "1/2 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoked salmon wrap:",
+    "fullData": "180 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "Lunch",
+    "quantity": "180.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "smoked salmon wrap:",
+    "fullData": "2 mountain bread wraps",
+    "itemName": "mountain bread wraps",
+    "sheetName": "Lunch",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoked salmon wrap:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "smoked salmon wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoked salmon wrap:",
+    "fullData": "4 Tbsp lite cream cheese",
+    "itemName": "lite cream cheese",
+    "sheetName": "Lunch",
+    "quantity": "4.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Lunch",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "3 cups of salad",
+    "itemName": "of salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "0.50 grated carrot",
+    "itemName": "grated carrot",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "Lunch",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "3 cashews",
+    "itemName": "cashews",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "1 packet of roasted chickpeas sprinkled over the top.",
+    "itemName": "of roasted chickpeas sprinkled over the top.",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Toasted chicken wrap:",
+    "fullData": "1 Simsons Pantry wrap",
+    "itemName": "Simsons Pantry wrap",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Toasted chicken wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Toasted chicken wrap:",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Lunch",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Toasted chicken wrap:",
+    "fullData": "1 slice Bega 50% less fat tasty cheese",
+    "itemName": "Bega 50% less fat tasty cheese",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "slice"
+  },
+  {
+    "foodName": "Toasted chicken wrap:",
+    "fullData": "3 tsp of lite mayonnaise",
+    "itemName": "of lite mayonnaise",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Toasted chicken wrap:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "220 g (raw) lean beef mince",
+    "itemName": "(raw) lean beef mince",
+    "sheetName": "Lunch",
+    "quantity": "220.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "0.50 cup black beans",
+    "itemName": "black beans",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "200 g tinned tomatoes",
+    "itemName": "tinned tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "200.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "1.5 cups green beans",
+    "itemName": "green beans",
+    "sheetName": "Lunch",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "0.50 avocado",
+    "itemName": "avocado",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "1 cup cauliflower rice to serve",
+    "itemName": "cauliflower rice to serve",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "160gr (raw) chicken",
+    "itemName": "(raw) chicken",
+    "sheetName": "Lunch",
+    "quantity": "160.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "3 cups cooked Asian vegetables",
+    "itemName": "cooked Asian vegetables",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/3 cup sugar snap peas",
+    "itemName": "sugar snap peas",
+    "sheetName": "Lunch",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "Lunch",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "2 tsp oil for cooking",
+    "itemName": "oil for cooking",
+    "sheetName": "Lunch",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Season with soy/fish sauce and sesame oil to taste",
+    "fullData": "chicken and 3 veg.",
+    "itemName": "and 3 veg.",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Season with soy/fish sauce and sesame oil to taste",
+    "fullData": "120 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Lunch",
+    "quantity": "120.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Season with soy/fish sauce and sesame oil to taste",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Season with soy/fish sauce and sesame oil to taste",
+    "fullData": "1 cup peas and corn",
+    "itemName": "peas and corn",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Season with soy/fish sauce and sesame oil to taste",
+    "fullData": "2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Lunch",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Cruskits and ham",
+    "fullData": "4 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "Lunch",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cruskits and ham",
+    "fullData": "135 g sliced turkey/ham off the bone",
+    "itemName": "sliced turkey/ham off the bone",
+    "sheetName": "Lunch",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Cruskits and ham",
+    "fullData": "4 Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "Lunch",
+    "quantity": "4.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Cruskits and ham",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 Bocconcini balls (60g)",
+    "itemName": "Bocconcini balls (60g)",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "8 cherry tomatoes halved",
+    "itemName": "cherry tomatoes halved",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 cups raw spinach",
+    "itemName": "raw spinach",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1/2 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "30 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Lunch",
+    "quantity": "30.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1 Tbsp avocado",
+    "itemName": "avocado",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "2x 95 g tin tuna in oil/ flavour",
+    "itemName": "95 tin tuna in oil/ flavour",
+    "sheetName": "Lunch",
+    "quantity": "190.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "1 Boiled egg",
+    "itemName": "Boiled egg",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "1/4 cooked brown rice",
+    "itemName": "cooked brown rice",
+    "sheetName": "Lunch",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "1/2 cup four bean mix",
+    "itemName": "four bean mix",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "150 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Lunch",
+    "quantity": "150.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "2 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "Lunch",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1/3 cup cooked sweet potato",
+    "itemName": "cooked sweet potato",
+    "sheetName": "Lunch",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "95 g tin tuna in oil/ flavour",
+    "itemName": "tin tuna in oil/ flavour",
+    "sheetName": "Lunch",
+    "quantity": "95.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "135 g sliced lean ham/ turkey off bone",
+    "itemName": "sliced lean ham/ turkey off bone",
+    "sheetName": "Lunch",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "4 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "Lunch",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "1 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "3 tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Smoked Salmon wrap:",
+    "fullData": "150 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "Lunch",
+    "quantity": "150.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Smoked Salmon wrap:",
+    "fullData": "2 Simpsons pantry barley wraps",
+    "itemName": "Simpsons pantry barley wraps",
+    "sheetName": "Lunch",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked Salmon wrap:",
+    "fullData": "1 cup grated carrot",
+    "itemName": "grated carrot",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoked Salmon wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked Salmon wrap:",
+    "fullData": "5 tsp of whole eg g mayonnaise (lite)",
+    "itemName": "of whole eg mayonnaise (lite)",
+    "sheetName": "Lunch",
+    "quantity": "5.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 Bocconcini balls (60g)",
+    "itemName": "Bocconcini balls (60g)",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "8 cherry tomatoes halved",
+    "itemName": "cherry tomatoes halved",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 cups raw spinach",
+    "itemName": "raw spinach",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1/2 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "60 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Lunch",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1/2 apple",
+    "itemName": "apple",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "200 g chicken (raw)",
+    "itemName": "chicken (raw)",
+    "sheetName": "Lunch",
+    "quantity": "200.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "3 cups cooked Asian vegetables",
+    "itemName": "cooked Asian vegetables",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "Lunch",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/2 cup carrot",
+    "itemName": "carrot",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/4 cup brown rice",
+    "itemName": "brown rice",
+    "sheetName": "Lunch",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "9 cashews",
+    "itemName": "cashews",
+    "sheetName": "Lunch",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1 tsp coconut oil for cooking",
+    "itemName": "coconut oil for cooking",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "225 g cooked leanbeef mince",
+    "itemName": "cooked leanbeef mince",
+    "sheetName": "Lunch",
+    "quantity": "225.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Lunch",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "0.50 cup black beans",
+    "itemName": "black beans",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "1.5 cups tinned tomatoes",
+    "itemName": "tinned tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "0.50 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "5 Tbsp avocado",
+    "itemName": "avocado",
+    "sheetName": "Lunch",
+    "quantity": "5.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Lunch",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "0.50 packet Slendier soy fettuccine",
+    "itemName": "Slendier soy fettuccine",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "1/3 cup sweet potato",
+    "itemName": "sweet potato",
+    "sheetName": "Lunch",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Lunch",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "0.25 cup lentils",
+    "itemName": "lentils",
+    "sheetName": "Lunch",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "0.50 cup tomato passata",
+    "itemName": "tomato passata",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "3 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "120 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Lunch",
+    "quantity": "120.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "1 packet of roasted chickpeas/fav-va beans",
+    "itemName": "of roasted chickpeas/fav-va beans",
+    "sheetName": "Lunch",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "0.25 cup quinoa",
+    "itemName": "quinoa",
+    "sheetName": "Lunch",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "3 cups of salad",
+    "itemName": "of salad",
+    "sheetName": "Lunch",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Lunch",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "0.50 cup carrot",
+    "itemName": "carrot",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "0.50 avocado",
+    "itemName": "avocado",
+    "sheetName": "Lunch",
+    "quantity": "0.5",
+    "unitName": "NA"
+  }
+]

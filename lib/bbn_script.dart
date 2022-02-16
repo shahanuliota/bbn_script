@@ -12,56 +12,131 @@ extension StringFi on List {
 
 List<FoodItem> foolItemList = <FoodItem>[];
 
-void main() {
-  var file = 'lib/Final Meal Ideas.xlsx';
-  var bytes = File(file).readAsBytesSync();
-  var decoder = SpreadsheetDecoder.decodeBytes(bytes, update: true);
-  print(decoder.tables.keys);
+String getNumberOrExpression(String str) {
+  List<String> list = str.split('');
 
-  String table = 'Breakfast';
-
-  int rowLen = decoder.tables[table]!.rows.length;
-
-  Map<int, List<String>> xlColMap = <int, List<String>>{};
-  for (int i = 1; i < rowLen; i++) {
-    List row = decoder.tables[table]!.rows[i];
-    for (int j = 0; j < row.length; j++) {
-      if (row[j] != null) {
-        if (xlColMap[j] == null) {
-          xlColMap[j] = [];
-        }
-        xlColMap[j]!.add(row[j]);
+  String num1 = '';
+  String num2 = '';
+  String exp = '';
+  int i = 0;
+  for (i = 0; i < list.length; i++) {
+    if (list[i] == ' ') continue;
+    if (isNumber(list[i])) {
+      num1 += list[i];
+    } else {
+      if (num1.isNotEmpty) {
+        //    i--;
+        break;
       }
     }
   }
 
-
-  for(int i=0;i<xlColMap.length;i++){
-    for (String element in xlColMap[i]!) {
-      parseData(element, table);
+  for (i; i < list.length; i++) {
+    if (list[i] == ' ') continue;
+    if (<String>['x', '/'].contains(list[i])) {
+      exp = list[i];
+      i++;
+      break;
     }
   }
 
+  if (exp.isNotEmpty) {
+    for (i; i < list.length; i++) {
+      if (list[i] == ' ') continue;
+      if (isNumber(list[i])) {
+        num2 += list[i];
+      } else {
+        break;
+      }
+    }
+  }
+  if (num2.isEmpty) {
+    exp = '';
+  }
 
-  File enJsonFile = File('bin/${table.toLowerCase()}_food.json');
-  enJsonFile.writeAsStringSync(foolItemList.stringFi);
+  return num1 + exp + num2;
 }
 
+void main() {
+//   String test = '1 packet of roasted chickpeas/fav-va beans';
+//
+//   test = getNumberOrExpression(test);
+// //  test = test.replaceAll(RegExp(r'[^0-9]'), '');
+//   print(test);
+//
+//   return;
+  var file = 'lib/Final Meal Ideas.xlsx';
+  var bytes = File(file).readAsBytesSync();
+  var decoder = SpreadsheetDecoder.decodeBytes(bytes, update: true);
+  // print(decoder.tables.keys);
+  List<String> tablesList = decoder.tables.keys.toList();
+
+  // print(tablesList.length);
+  //
+  // for (String table in tablesList) {
+  //   print(table);
+  // }
+  // return;
+  //String table = 'Dinner';
+  for (String table in tablesList) {
+    int rowLen = decoder.tables[table]!.rows.length;
+
+    Map<int, List<String>> xlColMap = <int, List<String>>{};
+    for (int i = 0; i < rowLen; i++) {
+      List row = decoder.tables[table]!.rows[i];
+      for (int j = 0; j < row.length; j++) {
+        if (row[j] != null) {
+          if (xlColMap[j] == null) {
+            xlColMap[j] = [];
+          }
+          if(!row[j].toString().contains('Blocks')) {
+            xlColMap[j]!.add(row[j]);
+          }
+
+        }
+      }
+    }
+
+    List<int> mapKey = xlColMap.keys.toList();
+
+    for (int i = 0; i < mapKey.length; i++) {
+      for (String element in xlColMap[mapKey[i]]!) {
+        parseData(element, table);
+      }
+    }
+
+    File enJsonFile = File('bin/${table.toLowerCase()}_food.json');
+    enJsonFile.writeAsStringSync(foolItemList.stringFi);
+    foolItemList.clear();
+  }
+}
+/// used unit names
 List<String> unitList = [
   "g ",
+  "g",
   "cup",
   "cups",
   "slice",
+  "slices",
   "tbsp",
   "Tbsp",
   "packet",
   'tsp',
   'tub',
+  'L',
+  'l',
+  'packet',
 ];
+
+/// special case handle
 Map<String, String> blockNumber = {
   '¼': '0.25',
   '½': '0.50',
   'I ': '1 ',
+  'L ': ' L ',
+  'g ': ' g ',
+  'G ': ' G ',
+  'tsp ': ' tsp ',
 };
 
 String currentFood = '';
@@ -87,7 +162,7 @@ void parseData(String data, sheetName) {
 void convertStrToData(String str, sheetName) {
   try {
     List<String> strList = str.split(' ');
-    String num = strList.first;
+    String num = getNumberOrExpression(str);
 
     String unitName = 'NA';
     String itemName = '';
@@ -99,14 +174,21 @@ void convertStrToData(String str, sheetName) {
       }
     }
 
-    FoodItem food = FoodItem(
-      sheetName: sheetName,
-      itemName: itemName,
-      quantity: convertStringToNum(num),
-      title: currentFood,
-      unitName: unitName,
-    );
-    foolItemList.add(food);
+    try {
+      FoodItem food = FoodItem(
+        fullData: str,
+        sheetName: sheetName,
+        itemName: itemName,
+        quantity: convertStringToNum(num),
+        title: currentFood,
+        unitName: unitName,
+      );
+      foolItemList.add(food);
+    } catch (e, t) {
+      print(e);
+      print(t);
+      print("error String : => $str");
+    }
   } catch (e) {
     print("error convert -----> e");
   }

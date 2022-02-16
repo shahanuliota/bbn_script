@@ -1,0 +1,6306 @@
+[
+  {
+    "foodName": "MEA L IDEAS",
+    "fullData": "1 Block",
+    "itemName": "Block",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "eggs and cooked veg.",
+    "fullData": "1 boiled egg",
+    "itemName": "boiled egg",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "eggs and cooked veg.",
+    "fullData": "3 cups spinach/mushrooms - saut'e in non stick pan",
+    "itemName": "spinach/mushrooms - saut'e in non stick pan",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "eggs and cooked veg.",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 Tbsp coconut yoghurt",
+    "itemName": "coconut yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1/2 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Ham wrap:",
+    "fullData": "1 Mt. Bread wrap",
+    "itemName": "Mt. Bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham wrap:",
+    "fullData": "45 g ham off the bone",
+    "itemName": "ham off the bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "45.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham wrap:",
+    "fullData": "1 Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Eg g wrap:",
+    "fullData": "1 egg",
+    "itemName": "egg",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g wrap:",
+    "fullData": "1 Mt. Bread wrap",
+    "itemName": "Mt. Bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g wrap:",
+    "fullData": "2 tsp pesto dip",
+    "itemName": "pesto dip",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1/4 cup oat bran",
+    "itemName": "oat bran",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1/2 cup coconut milk",
+    "itemName": "coconut milk",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "1 cup almond milk",
+    "itemName": "almond milk",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "1 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoked salmon and cruskits:",
+    "fullData": "30 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "30.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "smoked salmon and cruskits:",
+    "fullData": "2 cruskits",
+    "itemName": "cruskits",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoked salmon and cruskits:",
+    "fullData": "1 Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "baked beans and eggs",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "baked beans and eggs",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "baked beans and eggs",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bluberry Smoothie",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "2 protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Bluberry Smoothie",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bluberry Smoothie",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bluberry Smoothie",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "eg g wrap",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "eg g wrap",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "eg g wrap",
+    "fullData": "1/4 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "eg g wrap",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt Brekkie",
+    "fullData": "160 Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "160.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt Brekkie",
+    "fullData": "1/2 apple",
+    "itemName": "apple",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt Brekkie",
+    "fullData": "6 cashews",
+    "itemName": "cashews",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "BACON AND EGGS WITH COOKED VEG.",
+    "fullData": "1 egg",
+    "itemName": "egg",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "BACON AND EGGS WITH COOKED VEG.",
+    "fullData": "2 slices short cut bacon",
+    "itemName": "short cut bacon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "slices"
+  },
+  {
+    "foodName": "BACON AND EGGS WITH COOKED VEG.",
+    "fullData": "3 cups raw spinach/mushrooms - cook",
+    "itemName": "raw spinach/mushrooms - cook",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "BACON AND EGGS WITH COOKED VEG.",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "BACON AND EGGS WITH COOKED VEG.",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chicken sausages and fruit",
+    "fullData": "2 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and fruit",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken sausages and fruit",
+    "fullData": "1 mandarin",
+    "itemName": "mandarin",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Green Smoothie:",
+    "fullData": "2 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Green Smoothie:",
+    "fullData": "1 cup almond milk",
+    "itemName": "almond milk",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Green Smoothie:",
+    "fullData": "2 tsp of chia seeds",
+    "itemName": "of chia seeds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Green Smoothie:",
+    "fullData": "1/2 cup of mixed berries.",
+    "itemName": "of mixed berries.",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Green Smoothie:",
+    "fullData": "3 cups spinach",
+    "itemName": "spinach",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Porridge :",
+    "fullData": "1/4 cup oat bran",
+    "itemName": "oat bran",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge :",
+    "fullData": "1 cup almond milk",
+    "itemName": "almond milk",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge :",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge :",
+    "fullData": "2 tsp of chia seeds",
+    "itemName": "of chia seeds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Porridge :",
+    "fullData": "2 Tbsp of protein powder",
+    "itemName": "of protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Smoked salmon and cooked veg.",
+    "fullData": "60 g Smoked salmon",
+    "itemName": "Smoked salmon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Smoked salmon and cooked veg.",
+    "fullData": "1.5 cups cooked spinack and musrooms",
+    "itemName": "cooked spinack and musrooms",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Smoked salmon and cooked veg.",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked salmon and cooked veg.",
+    "fullData": "1/4 avocado.",
+    "itemName": "avocado.",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eg g wrap",
+    "fullData": "1 eg g with",
+    "itemName": "eg with",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Bacon and eg g wrap",
+    "fullData": "2 rashes short cut bacon",
+    "itemName": "rashes short cut bacon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eg g wrap",
+    "fullData": "1 Simson’s pantry wrap",
+    "itemName": "Simson’s pantry wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eg g wrap",
+    "fullData": "1.5 cup cooked spinach + mushrooms",
+    "itemName": "cooked spinach + mushrooms",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bacon and eg g wrap",
+    "fullData": "1/4 avocado.",
+    "itemName": "avocado.",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and cooked veg.:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and cooked veg.:",
+    "fullData": "3 cups raw spinach/mushrooms - cook",
+    "itemName": "raw spinach/mushrooms - cook",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Eggs and cooked veg.:",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Eggs and cooked veg.:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and cooked veg.:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "3 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "1 1/2 cup blueberries",
+    "itemName": "1/2 blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "4 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Eg g and Bean wrap:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g and Bean wrap:",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g and Bean wrap:",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Eg g and Bean wrap:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g and Bean wrap:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "yoghurt:",
+    "fullData": "160 Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "160.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt:",
+    "fullData": "1 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "yoghurt:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt:",
+    "fullData": "9 cashews",
+    "itemName": "cashews",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g , bacon and baked beans:",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g , bacon and baked beans:",
+    "fullData": "2 slices short cut bacon",
+    "itemName": "short cut bacon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "slices"
+  },
+  {
+    "foodName": "Eg g , bacon and baked beans:",
+    "fullData": "3 cups raw spinach/mushrooms - cook",
+    "itemName": "raw spinach/mushrooms - cook",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Eg g , bacon and baked beans:",
+    "fullData": "1/4 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Eg g , bacon and baked beans:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g , bacon and baked beans:",
+    "fullData": "1 1/2 tsp olive oil",
+    "itemName": "1/2  olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "3 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs cooked Brekkie:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs cooked Brekkie:",
+    "fullData": "2 rashers shortcut bacon",
+    "itemName": "rashers shortcut bacon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs cooked Brekkie:",
+    "fullData": "3 cups raw spinach/mushrooms - cook",
+    "itemName": "raw spinach/mushrooms - cook",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Bacon and eggs cooked Brekkie:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs cooked Brekkie:",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bacon and eggs cooked Brekkie:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "4 tbsp protein powder",
+    "itemName": "4 protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 1/2 cup blueberries",
+    "itemName": "1/2 blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tsp peanut butter",
+    "itemName": "peanut butter",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Bacon and eggs Wrap:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs Wrap:",
+    "fullData": "2 rashers shortcut bacon",
+    "itemName": "rashers shortcut bacon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs Wrap:",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs Wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs Wrap:",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bacon and eggs Wrap:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt:",
+    "fullData": "160 Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "160.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt:",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "yoghurt:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt:",
+    "fullData": "1 mandarin",
+    "itemName": "mandarin",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt:",
+    "fullData": "12 cashews",
+    "itemName": "cashews",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "12.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Baked beans with salmon and eggs:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Baked beans with salmon and eggs:",
+    "fullData": "30 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "30.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Baked beans with salmon and eggs:",
+    "fullData": "3 cups raw spinach/mushrooms - cook",
+    "itemName": "raw spinach/mushrooms - cook",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Baked beans with salmon and eggs:",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Baked beans with salmon and eggs:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Baked beans with salmon and eggs:",
+    "fullData": "2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "2 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "4 Tbsp of protein powder",
+    "itemName": "of protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1/2 cup oat bran",
+    "itemName": "oat bran",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "2 tsp peanut butter",
+    "itemName": "peanut butter",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "2 cups almond milk",
+    "itemName": "almond milk",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "2 tbsp nutritional yeast",
+    "itemName": "nutritional yeast",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1 slice Burgen bread",
+    "itemName": "Burgen bread",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "slice"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1.5 cups of cooked vegetables",
+    "itemName": "of cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "0.25 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1 tsp of olive oil",
+    "itemName": "of olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "2 rashers shortcut bacon",
+    "itemName": "rashers shortcut bacon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "1 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "3 cups raw spinach/mushrooms - cook",
+    "itemName": "raw spinach/mushrooms - cook",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "3/4 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.75",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "3 tbsp protein powder",
+    "itemName": "3 protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "160 g Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "160.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 1/2 cup blueberries",
+    "itemName": "1/2 blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 cups almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tsp natural peanut butter",
+    "itemName": "natural peanut butter",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "4 rashers shortcut bacon",
+    "itemName": "rashers shortcut bacon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "2 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "yoghurt Brekkie:",
+    "fullData": "1 tub (170g) YoPro yoghurt/ Chobani FIT",
+    "itemName": "(170g) YoPro yoghurt/ Chobani FIT",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tub"
+  },
+  {
+    "foodName": "yoghurt Brekkie:",
+    "fullData": "3 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "yoghurt Brekkie:",
+    "fullData": "2 Tbsp coconut yoghurt",
+    "itemName": "coconut yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "yoghurt Brekkie:",
+    "fullData": "1 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt Brekkie:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt Brekkie:",
+    "fullData": "9 almonds",
+    "itemName": "almonds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "3 tbsp nutritional yeast",
+    "itemName": "nutritional yeast",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1 slice multigrain bread",
+    "itemName": "multigrain bread",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "slice"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1.5 cups of cooked vegetables",
+    "itemName": "of cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "0.25 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1 tsp of olive oil",
+    "itemName": "of olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "5 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "3/4 cup oat bran",
+    "itemName": "oat bran",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.75",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "5 tsp peanut butter",
+    "itemName": "peanut butter",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Chicken sausages and Fruit:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and Fruit:",
+    "fullData": "2 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and Fruit:",
+    "fullData": "1 1/2 cup mixed berries",
+    "itemName": "1/2 mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken sausages and Fruit:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and Fruit:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and Fruit:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Cooked breakfast:",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked breakfast:",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Cooked breakfast:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked breakfast:",
+    "fullData": "1/4 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Cooked breakfast:",
+    "fullData": "1 tsp olive oil for cooking;",
+    "itemName": "olive oil for cooking;",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "1 cup Hilo milk",
+    "itemName": "Hilo milk",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "4 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Bar:",
+    "fullData": "1/2 BB bar",
+    "itemName": "BB bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fava Beans:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "80 g yopro yoghurt",
+    "itemName": "yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "3 almonds",
+    "itemName": "almonds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "2 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "1 tsp peabut butter",
+    "itemName": "peabut butter",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "1 Tbsp protein powder in water",
+    "itemName": "protein powder in water",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1/2 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken and fruit:",
+    "fullData": "30 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "30.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken and fruit:",
+    "fullData": "1/2 apple",
+    "itemName": "apple",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and fruit:",
+    "fullData": "3 almonds",
+    "itemName": "almonds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and fruit:",
+    "fullData": "45 g sliced lean ham/ turkey off bone",
+    "itemName": "sliced lean ham/ turkey off bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "45.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and fruit:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Ham and fruit:",
+    "fullData": "3 cashews",
+    "itemName": "cashews",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "veggie stick and dip:",
+    "fullData": "1/2 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "veggie stick and dip:",
+    "fullData": "60 g high protein cottage cheese",
+    "itemName": "high protein cottage cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and cream cheese",
+    "fullData": "2 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and cream cheese",
+    "fullData": "45 g sliced ham off the bone/turkey",
+    "itemName": "sliced ham off the bone/turkey",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "45.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and cream cheese",
+    "fullData": "1Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 Tbsp coconut yoghurt",
+    "itemName": "coconut yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1/2 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bar:",
+    "fullData": "1/2 BB bar",
+    "itemName": "BB bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fava Beans:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "80 g yopro yoghurt",
+    "itemName": "yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "3 almonds",
+    "itemName": "almonds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "2 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "1 tsp peabut butter",
+    "itemName": "peabut butter",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "1 Tbsp protein powder in water",
+    "itemName": "protein powder in water",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1/2 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken and fruit:",
+    "fullData": "30 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "30.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken and fruit:",
+    "fullData": "1/2 apple",
+    "itemName": "apple",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and fruit:",
+    "fullData": "3 almonds",
+    "itemName": "almonds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and fruit:",
+    "fullData": "45 g sliced lean ham/ turkey off bone",
+    "itemName": "sliced lean ham/ turkey off bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "45.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and fruit:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Ham and fruit:",
+    "fullData": "3 cashews",
+    "itemName": "cashews",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "veggie stick and dip:",
+    "fullData": "1/2 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "veggie stick and dip:",
+    "fullData": "60 g high protein cottage cheese",
+    "itemName": "high protein cottage cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and cream cheese",
+    "fullData": "2 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and cream cheese",
+    "fullData": "45 g sliced ham off the bone/turkey",
+    "itemName": "sliced ham off the bone/turkey",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "45.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and cream cheese",
+    "fullData": "1Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 Tbsp coconut yoghurt",
+    "itemName": "coconut yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1/2 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 Tbsp coconut yoghurt",
+    "itemName": "coconut yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1/2 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bar:",
+    "fullData": "1/2 BB bar",
+    "itemName": "BB bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fava Beans:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "80 g yopro yoghurt",
+    "itemName": "yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "3 almonds",
+    "itemName": "almonds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "2 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "1 tsp peabut butter",
+    "itemName": "peabut butter",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "1 Tbsp protein powder in water",
+    "itemName": "protein powder in water",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Bar:",
+    "fullData": "1/2 BB bar",
+    "itemName": "BB bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fava Beans:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "80 g yopro yoghurt",
+    "itemName": "yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "3 almonds",
+    "itemName": "almonds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "2 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "1 tsp peabut butter",
+    "itemName": "peabut butter",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "1 Tbsp protein powder in water",
+    "itemName": "protein powder in water",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1/2 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bar:",
+    "fullData": "1 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "yoghurt snack",
+    "fullData": "160 g Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "160.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yoghurt snack",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt snack",
+    "fullData": "6 almonds",
+    "itemName": "almonds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "veggie stick and ham:",
+    "fullData": "90 g sliced ham/ turkey off the bone",
+    "itemName": "sliced ham/ turkey off the bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "veggie stick and ham:",
+    "fullData": "1 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "veggie stick and ham:",
+    "fullData": "2 Tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coffee and Fava:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Coffee and Fava:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "pesto eggs:",
+    "fullData": "2 boiled egg",
+    "itemName": "boiled egg",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "pesto eggs:",
+    "fullData": "4 tsp pesto",
+    "itemName": "pesto",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "pesto eggs:",
+    "fullData": "0.50 cup chickpeas",
+    "itemName": "chickpeas",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Corn thins and Cottage cheese:",
+    "fullData": "4 cruskits/ corn thins",
+    "itemName": "cruskits/ corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Corn thins and Cottage cheese:",
+    "fullData": "1/2 cup high protein cottage cheese",
+    "itemName": "high protein cottage cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Tuna and Beans:",
+    "fullData": "95 g tinned tuna in olive oil",
+    "itemName": "tinned tuna in olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "95.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Tuna and Beans:",
+    "fullData": "0.50 cup four bean mix",
+    "itemName": "four bean mix",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Cruskits ham and cream cheese:",
+    "fullData": "4 cruskits/ corn thins",
+    "itemName": "cruskits/ corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cruskits ham and cream cheese:",
+    "fullData": "90 g ham off the bone",
+    "itemName": "ham off the bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Cruskits ham and cream cheese:",
+    "fullData": "2 Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "2 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "2 Tbsp coconut yoghurt",
+    "itemName": "coconut yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "95 g tin tuna in oil/ flavour",
+    "itemName": "tin tuna in oil/ flavour",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "95.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "60 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1 1/2 cups mixed salad",
+    "itemName": "1/2 mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "4 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch (ham):",
+    "fullData": "90 g sliced lean ham/ turkey off bone",
+    "itemName": "sliced lean ham/ turkey off bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light lunch (ham):",
+    "fullData": "2x corn thins",
+    "itemName": "corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch (ham):",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch (ham):",
+    "fullData": "2 tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "chicken sausage and salad:",
+    "fullData": "2 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausage and salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken sausage and salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch (tuna):",
+    "fullData": "4 cruskits/corn thins",
+    "itemName": "cruskits/corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch (tuna):",
+    "fullData": "95 g tin tuna in oil/flavoured",
+    "itemName": "tin tuna in oil/flavoured",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "95.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Mince and veg.:",
+    "fullData": "90 g lean turkey mince",
+    "itemName": "lean turkey mince",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Mince and veg.:",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Mince and veg.:",
+    "fullData": "0.50 cup tomato passata",
+    "itemName": "tomato passata",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mince and veg.:",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "80 g chicken (raw)",
+    "itemName": "80  chicken (raw)",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "1.5 cups cooked Asian vegetables",
+    "itemName": "cooked Asian vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "1/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "6 cashews",
+    "itemName": "cashews",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "90 g lean beef mince",
+    "itemName": "lean beef mince",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "1/4 cup black beans",
+    "itemName": "black beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "0.50 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican chilli con carne:",
+    "fullData": "1/4 avocado.",
+    "itemName": "avocado.",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Salmon wrap:",
+    "fullData": "60 g Smoked salmon",
+    "itemName": "Smoked salmon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Salmon wrap:",
+    "fullData": "1 Simson’s pantry wrap",
+    "itemName": "Simson’s pantry wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Salmon wrap:",
+    "fullData": "1/2 cup grated carrot",
+    "itemName": "grated carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Salmon wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Salmon wrap:",
+    "fullData": "1/4 avocado.",
+    "itemName": "avocado.",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Tuna and Beans:",
+    "fullData": "95 g tuna in oil/flavoured",
+    "itemName": "tuna in oil/flavoured",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "95.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Tuna and Beans:",
+    "fullData": "0.50 cup of 4-bean mix",
+    "itemName": "0.50 of 4-bean mix",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bar:",
+    "fullData": "1 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "yoghurt snack",
+    "fullData": "160 g Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "160.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yoghurt snack",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt snack",
+    "fullData": "6 almonds",
+    "itemName": "almonds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "veggie stick and ham:",
+    "fullData": "90 g sliced ham/ turkey off the bone",
+    "itemName": "sliced ham/ turkey off the bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "veggie stick and ham:",
+    "fullData": "1 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "veggie stick and ham:",
+    "fullData": "2 Tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Coffe and Bar:",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coffe and Bar:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coffee and Fava:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Coffee and Fava:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "pesto eggs:",
+    "fullData": "2 boiled egg",
+    "itemName": "boiled egg",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "pesto eggs:",
+    "fullData": "4 tsp pesto",
+    "itemName": "pesto",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "pesto eggs:",
+    "fullData": "0.50 cup chickpeas",
+    "itemName": "chickpeas",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Corn thins and Cottage cheese:",
+    "fullData": "4 cruskits/ corn thins",
+    "itemName": "cruskits/ corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Corn thins and Cottage cheese:",
+    "fullData": "1/2 cup high protein cottage cheese",
+    "itemName": "high protein cottage cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Tuna and Beans:",
+    "fullData": "95 g tinned tuna in olive oil",
+    "itemName": "tinned tuna in olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "95.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Tuna and Beans:",
+    "fullData": "0.50 cup four bean mix",
+    "itemName": "four bean mix",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Cruskits ham and cream cheese:",
+    "fullData": "4 cruskits/ corn thins",
+    "itemName": "cruskits/ corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cruskits ham and cream cheese:",
+    "fullData": "90 g ham off the bone",
+    "itemName": "ham off the bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Cruskits ham and cream cheese:",
+    "fullData": "2 Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "2 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "2 Tbsp coconut yoghurt",
+    "itemName": "coconut yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken and veg.:",
+    "fullData": "60 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken and veg.:",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken and veg.:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fish and Pesto Veg.:",
+    "fullData": "110 g cooked fish/ seafood",
+    "itemName": "cooked fish/ seafood",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "110.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Fish and Pesto Veg.:",
+    "fullData": "1 1/2 cups cooked vegetables",
+    "itemName": "1/2 cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Fish and Pesto Veg.:",
+    "fullData": "1/2 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Fish and Pesto Veg.:",
+    "fullData": "4 tsp red rock deli pesto",
+    "itemName": "red rock deli pesto",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chicken sausage and salad:",
+    "fullData": "2 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausage and salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken sausage and salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Turkey mince and ve g (Italian):",
+    "fullData": "90 g lean turkey mince",
+    "itemName": "lean turkey mince",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Turkey mince and ve g (Italian):",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Turkey mince and ve g (Italian):",
+    "fullData": "0.50 cup tomato passata",
+    "itemName": "tomato passata",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Turkey mince and ve g (Italian):",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Fish and roasted veg.:",
+    "fullData": "90 g fish cooked",
+    "itemName": "fish cooked",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Fish and roasted veg.:",
+    "fullData": "1.5 cups of mixed cooked vegetables",
+    "itemName": "of mixed cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Fish and roasted veg.:",
+    "fullData": "300 g cauliflower rice",
+    "itemName": "cauliflower rice",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "300.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Fish and roasted veg.:",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "80 g chicken (raw)",
+    "itemName": "80  chicken (raw)",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "1.5 cups cooked Asian vegetables",
+    "itemName": "cooked Asian vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "1/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "6 cashews",
+    "itemName": "cashews",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "1 Simson’s pantry wrap",
+    "itemName": "Simson’s pantry wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "0.25 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "1.5 cup raw vegetables (onion, capsicum, mushroom, spinach)",
+    "itemName": "raw vegetables (onion, capsicum, mushroom, spinach)",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "2 slice Bega 50% less fat cheese",
+    "itemName": "Bega 50% less fat cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "slice"
+  },
+  {
+    "foodName": "chicken Pasta:",
+    "fullData": "30 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "30.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken Pasta:",
+    "fullData": "0.25 packet Slendier soy fettuccini",
+    "itemName": "Slendier soy fettuccini",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "chicken Pasta:",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken Pasta:",
+    "fullData": "0.50 cup tomato paste",
+    "itemName": "tomato paste",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken Pasta:",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "mexican chilli con carne:",
+    "fullData": "90 g lean beef mince",
+    "itemName": "lean beef mince",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "mexican chilli con carne:",
+    "fullData": "1/4 cup black beans",
+    "itemName": "black beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "mexican chilli con carne:",
+    "fullData": "0.50 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "mexican chilli con carne:",
+    "fullData": "1/4 avocado.",
+    "itemName": "avocado.",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Roast dinner (beef)",
+    "fullData": "80 g (raw) lean beef steak/ roast",
+    "itemName": "(raw) lean beef steak/ roast",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Roast dinner (beef)",
+    "fullData": "1.5 cups cooked/roasted vegetables",
+    "itemName": "cooked/roasted  vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Roast dinner (beef)",
+    "fullData": "1/2 cup corn/peas",
+    "itemName": "corn/peas",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Roast dinner (beef)",
+    "fullData": "1 tsp olive oil for cooking",
+    "itemName": "olive oil for cooking",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Bar:",
+    "fullData": "1 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "160 g Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "160.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "6 almonds",
+    "itemName": "almonds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "hot choc and bar:",
+    "fullData": "1/2 BB bar",
+    "itemName": "BB bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "hot choc and bar:",
+    "fullData": "1 cup Hilo/soy milk with Avalanch hot chocolate powder",
+    "itemName": "Hilo/soy milk with Avalanch hot chocolate powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "2 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "2 Tbsp coconut yoghurt",
+    "itemName": "coconut yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Corn thins and Cottage cheese:",
+    "fullData": "4 cruskits/ corn thins",
+    "itemName": "cruskits/ corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Corn thins and Cottage cheese:",
+    "fullData": "1/2 cup high protein cottage cheese",
+    "itemName": "high protein cottage cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bar:",
+    "fullData": "1 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "yoghurt snack",
+    "fullData": "160 g Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "160.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yoghurt snack",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt snack",
+    "fullData": "6 almonds",
+    "itemName": "almonds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coffee and Fava:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Coffee and Fava:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "160 g Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "160.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "1 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "9 almonds",
+    "itemName": "almonds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and veggie sticks:",
+    "fullData": "135 g sliced ham/ turkey off the bone",
+    "itemName": "sliced ham/ turkey off the bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and veggie sticks:",
+    "fullData": "1 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Ham and veggie sticks:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and veggie sticks:",
+    "fullData": "3 tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "coffee bar and fava:",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "coffee bar and fava:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "coffee bar and fava:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "95 g tin tuna in oil/ flavour",
+    "itemName": "tin tuna in oil/ flavour",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "95.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and salad Wrap:",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken and salad Wrap:",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and salad Wrap:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken and salad Wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and salad Wrap:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and salad Wrap:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Light Lunch:",
+    "fullData": "135 g sliced lean ham/ turkey off bone",
+    "itemName": "sliced lean ham/ turkey off bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light Lunch:",
+    "fullData": "2x corn thins",
+    "itemName": "corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light Lunch:",
+    "fullData": "1/2 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Light Lunch:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light Lunch:",
+    "fullData": "3 tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "3 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "1/4 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "90 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "3 Tbsp lite cream cheese",
+    "itemName": "lite cream cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "120 g (raw) chicken/beef",
+    "itemName": "(raw) chicken/beef",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "120.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "3 cups raw vegetables",
+    "itemName": "raw vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "2/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.6666666666666666",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "9 cashews",
+    "itemName": "cashews",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "155 g (raw) lean beef mince",
+    "itemName": "(raw) lean beef mince",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "155.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "1.5 cups tinned Tomatoes",
+    "itemName": "tinned Tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "1/2 cup kidney beans",
+    "itemName": "kidney beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "3 Tbsp avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "soup",
+    "fullData": "3 cups raw vegetables",
+    "itemName": "raw vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "soup",
+    "fullData": "1/2 cup lentils",
+    "itemName": "lentils",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "soup",
+    "fullData": "1/2 L massel stock",
+    "itemName": "massel stock",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "L"
+  },
+  {
+    "foodName": "soup",
+    "fullData": "80 g raw chicken",
+    "itemName": "raw chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "soup",
+    "fullData": "1.5 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "pizza wrap:",
+    "fullData": "1 Mt. Bread wrap",
+    "itemName": "Mt. Bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "pizza wrap:",
+    "fullData": "45 g lean ham",
+    "itemName": "lean ham",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "45.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "pizza wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "pizza wrap:",
+    "fullData": "1/2 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "pizza wrap:",
+    "fullData": "5 kalamate olives",
+    "itemName": "kalamate olives",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "pizza wrap:",
+    "fullData": "2 slices Bega 50% less fat cheese",
+    "itemName": "Bega 50% less fat cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "slices"
+  },
+  {
+    "foodName": "Seafood lunch:",
+    "fullData": "165 g (raw) seafood mix or prawns",
+    "itemName": "(raw) seafood mix or prawns",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "165.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Seafood lunch:",
+    "fullData": "2 cups steamed asperagus",
+    "itemName": "steamed asperagus",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Seafood lunch:",
+    "fullData": "1.5 steamed broccolini",
+    "itemName": "steamed broccolini",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Seafood lunch:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Seafood lunch:",
+    "fullData": "3 tsp pesto mixed through",
+    "itemName": "pesto mixed through",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 Bocconcini balls (60g)",
+    "itemName": "Bocconcini balls (60g)",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "8 cherry tomatoes halved",
+    "itemName": "cherry tomatoes halved",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 cups raw spinach leaves",
+    "itemName": "raw spinach leaves",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1/4 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "160 g Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "160.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "1 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "9 almonds",
+    "itemName": "almonds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and veggie sticks:",
+    "fullData": "135 g sliced ham/ turkey off the bone",
+    "itemName": "sliced ham/ turkey off the bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and veggie sticks:",
+    "fullData": "1 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Ham and veggie sticks:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and veggie sticks:",
+    "fullData": "3 tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "coffee bar and fava:",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "coffee bar and fava:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "coffee bar and fava:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and cooked veg.",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken and cooked veg.",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken and cooked veg.",
+    "fullData": "1/2 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken and cooked veg.",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and cooked veg.",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Fish and pesto cooked veg.",
+    "fullData": "165 g cooked fish/ seafood",
+    "itemName": "cooked fish/ seafood",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "165.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Fish and pesto cooked veg.",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Fish and pesto cooked veg.",
+    "fullData": "1/2 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Fish and pesto cooked veg.",
+    "fullData": "4 tsp red rock deli pesto",
+    "itemName": "red rock deli pesto",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Fish and pesto cooked veg.",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "3 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "1/4 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoked salmon wrap",
+    "fullData": "60 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "smoked salmon wrap",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoked salmon wrap",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "smoked salmon wrap",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoked salmon wrap",
+    "fullData": "75 g lite cream cheese",
+    "itemName": "lite cream cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "75.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Seafood dinner:",
+    "fullData": "165 g (raw) seafood mix or prawns",
+    "itemName": "(raw) seafood mix or prawns",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "165.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Seafood dinner:",
+    "fullData": "2 cups steamed asperagus",
+    "itemName": "steamed asperagus",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Seafood dinner:",
+    "fullData": "1.5 steamed broccolini",
+    "itemName": "steamed broccolini",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Seafood dinner:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Seafood dinner:",
+    "fullData": "3 tsp pesto mixed through",
+    "itemName": "pesto mixed through",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "pizza wrap:",
+    "fullData": "1 Mt. Bread wrap",
+    "itemName": "Mt. Bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "pizza wrap:",
+    "fullData": "45 g lean ham",
+    "itemName": "lean ham",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "45.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "pizza wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "pizza wrap:",
+    "fullData": "1/2 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "pizza wrap:",
+    "fullData": "5 kalamate olives",
+    "itemName": "kalamate olives",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "pizza wrap:",
+    "fullData": "2 slices Bega 50% less fat cheese",
+    "itemName": "Bega 50% less fat cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "slices"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "120 g (raw) chicken/beef",
+    "itemName": "(raw) chicken/beef",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "120.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "3 cups raw vegetables",
+    "itemName": "raw vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "2/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.6666666666666666",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "9 cashews",
+    "itemName": "cashews",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 Bocconcini balls (60g)",
+    "itemName": "Bocconcini balls (60g)",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "8 cherry tomatoes halved",
+    "itemName": "cherry tomatoes halved",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 cups raw spinach leaves",
+    "itemName": "raw spinach leaves",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1/4 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Light dinner:",
+    "fullData": "135 g Deli meat",
+    "itemName": "Deli meat",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light dinner:",
+    "fullData": "1 cup carot sticks",
+    "itemName": "carot sticks",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Light dinner:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light dinner:",
+    "fullData": "5 black olives",
+    "itemName": "black olives",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light dinner:",
+    "fullData": "2 Tbsp hummus dip",
+    "itemName": "hummus dip",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Cruskits and ham:",
+    "fullData": "4 Cruskits",
+    "itemName": "Cruskits",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cruskits and ham:",
+    "fullData": "135 g ham off the bone",
+    "itemName": "ham off the bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Cruskits and ham:",
+    "fullData": "3 Tbsp lite cream cheese",
+    "itemName": "lite cream cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Cruskits and ham:",
+    "fullData": "1/2 cup grapes",
+    "itemName": "grapes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Tuna salad",
+    "fullData": "2x 95 g tin tuna in oil/ flavour",
+    "itemName": "95 tin tuna in oil/ flavour",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "190.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Tuna salad",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Tuna salad",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Tuna salad",
+    "fullData": "1/2 cup four bean mix",
+    "itemName": "four bean mix",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "120 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "120.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "2 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "180 g sliced lean ham/ turkey off bone",
+    "itemName": "sliced lean ham/ turkey off bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "180.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "2 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "1 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "4 tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "4 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "1/2 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoked salmon wrap:",
+    "fullData": "180 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "180.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "smoked salmon wrap:",
+    "fullData": "2 mountain bread wraps",
+    "itemName": "mountain bread wraps",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoked salmon wrap:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "smoked salmon wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoked salmon wrap:",
+    "fullData": "4 Tbsp lite cream cheese",
+    "itemName": "lite cream cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "3 cups of salad",
+    "itemName": "of salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "0.50 grated carrot",
+    "itemName": "grated carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "3 cashews",
+    "itemName": "cashews",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken salad",
+    "fullData": "1 packet of roasted chickpeas sprinkled over the top.",
+    "itemName": "of roasted chickpeas sprinkled over the top.",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Toasted chicken wrap:",
+    "fullData": "1 Simsons Pantry wrap",
+    "itemName": "Simsons Pantry wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Toasted chicken wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Toasted chicken wrap:",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Toasted chicken wrap:",
+    "fullData": "1 slice Bega 50% less fat tasty cheese",
+    "itemName": "Bega 50% less fat tasty cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "slice"
+  },
+  {
+    "foodName": "Toasted chicken wrap:",
+    "fullData": "3 tsp of lite mayonnaise",
+    "itemName": "of lite mayonnaise",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Toasted chicken wrap:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "220 g (raw) lean beef mince",
+    "itemName": "(raw) lean beef mince",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "220.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "0.50 cup black beans",
+    "itemName": "black beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "200 g tinned crushed/diced tomatoes",
+    "itemName": "tinned crushed/diced tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "200.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "1.5 cups green beans/broccoli",
+    "itemName": "green beans/broccoli",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "0.50 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "1 cup cauliflower rice to serve",
+    "itemName": "cauliflower rice to serve",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "160gr (raw) chicken",
+    "itemName": "(raw) chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "160.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "3 cups cooked Asian vegetables",
+    "itemName": "cooked Asian vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/3 cup sugar snap peas",
+    "itemName": "sugar snap peas",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "2 tsp oil for cooking",
+    "itemName": "oil for cooking",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Season with soy/fish sauce and sesame oil to taste",
+    "fullData": "chicken and 3 veg.",
+    "itemName": "and 3 veg.",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Season with soy/fish sauce and sesame oil to taste",
+    "fullData": "120 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "120.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Season with soy/fish sauce and sesame oil to taste",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Season with soy/fish sauce and sesame oil to taste",
+    "fullData": "1 cup peas and corn",
+    "itemName": "peas and corn",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Season with soy/fish sauce and sesame oil to taste",
+    "fullData": "2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Cruskits and ham",
+    "fullData": "4 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cruskits and ham",
+    "fullData": "135 g sliced turkey/ham off the bone",
+    "itemName": "sliced turkey/ham off the bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Cruskits and ham",
+    "fullData": "4 Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Cruskits and ham",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 Bocconcini balls (60g)",
+    "itemName": "Bocconcini balls (60g)",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "8 cherry tomatoes halved",
+    "itemName": "cherry tomatoes halved",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 cups raw spinach",
+    "itemName": "raw spinach",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1/2 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "30 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "30.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1 Tbsp avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "chicken and cooked veg.",
+    "fullData": "120 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "120.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken and cooked veg.",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken and cooked veg.",
+    "fullData": "1 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken and cooked veg.",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and cooked veg.",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "fish and pesto veggies:",
+    "fullData": "220 g cooked fish/ seafood",
+    "itemName": "cooked fish/ seafood",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "220.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "fish and pesto veggies:",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "fish and pesto veggies:",
+    "fullData": "1 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "fish and pesto veggies:",
+    "fullData": "4 tsp red rock deli pesto",
+    "itemName": "red rock deli pesto",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "fish and pesto veggies:",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "4 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "1/2 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Light dinner",
+    "fullData": "90 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light dinner",
+    "fullData": "4 Cruskits",
+    "itemName": "Cruskits",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light dinner",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Light dinner",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light dinner",
+    "fullData": "4Tbsp lite cream cheese",
+    "itemName": "lite cream cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Pizza:",
+    "fullData": "90 g lean ham",
+    "itemName": "90  lean ham",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Pizza:",
+    "fullData": "2 slices Bega 50% less fat cheese",
+    "itemName": "Bega 50% less fat cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "slices"
+  },
+  {
+    "foodName": "Pizza:",
+    "fullData": "1 simpsons Pantry wrap",
+    "itemName": "simpsons Pantry wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Pizza:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Pizza:",
+    "fullData": "0.50 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Pizza:",
+    "fullData": "6 large deli olives",
+    "itemName": "large deli olives",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Pizza:",
+    "fullData": "3 cup salad on the side",
+    "itemName": "salad on the side",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir-fry:",
+    "fullData": "160 g chicken (raw)",
+    "itemName": "chicken (raw)",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "160.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Stir-fry:",
+    "fullData": "3 cups cooked Asian vegetables",
+    "itemName": "cooked Asian vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Stir-fry:",
+    "fullData": "1/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir-fry:",
+    "fullData": "1/2 cup carrot",
+    "itemName": "carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir-fry:",
+    "fullData": "6 cashews",
+    "itemName": "cashews",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Stir-fry:",
+    "fullData": "1 tsp coconut oil for cooking",
+    "itemName": "coconut oil for cooking",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "225 g cooked leanbeef mince",
+    "itemName": "cooked leanbeef mince",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "225.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "0.50 cup black beans",
+    "itemName": "black beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "1.5 cups tinned tomatoes",
+    "itemName": "tinned tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken Pasta:",
+    "fullData": "135 g cooked chicken mince",
+    "itemName": "cooked chicken mince",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken Pasta:",
+    "fullData": "50 g (dry) Slendier soy fettuccini",
+    "itemName": "(dry) Slendier soy fettuccini",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "50.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken Pasta:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken Pasta:",
+    "fullData": "0.50 cup lentils",
+    "itemName": "lentils",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken Pasta:",
+    "fullData": "0.50 cup tomato passata",
+    "itemName": "tomato passata",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken Pasta:",
+    "fullData": "2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "sundried tomatoes chicken salad",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "sundried tomatoes chicken salad",
+    "fullData": "2 Mt Barker chicken sausages",
+    "itemName": "Mt Barker chicken sausages",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "sundried tomatoes chicken salad",
+    "fullData": "3 cups salad",
+    "itemName": "salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "sundried tomatoes chicken salad",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "sundried tomatoes chicken salad",
+    "fullData": "0.25 cup chickpeas",
+    "itemName": "chickpeas",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "sundried tomatoes chicken salad",
+    "fullData": "50 g Sandhurst Fat Free Sundried Tomatoes",
+    "itemName": "Sandhurst Fat Free Sundried Tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "50.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "sundried tomatoes chicken salad",
+    "fullData": "2 tsp of olive oil",
+    "itemName": "of olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "2x 95 g tin tuna in oil/ flavour",
+    "itemName": "95 tin tuna in oil/ flavour",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "190.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "1 Boiled egg",
+    "itemName": "Boiled egg",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "1/4 cooked brown rice",
+    "itemName": "cooked brown rice",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "1/2 cup four bean mix",
+    "itemName": "four bean mix",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Tuna salad:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "150 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "150.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "2 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1/3 cup cooked sweet potato",
+    "itemName": "cooked sweet potato",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and salad wrap:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "95 g tin tuna in oil/ flavour",
+    "itemName": "tin tuna in oil/ flavour",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "95.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "135 g sliced lean ham/ turkey off bone",
+    "itemName": "sliced lean ham/ turkey off bone",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "4 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "1 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light lunch",
+    "fullData": "3 tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Smoked Salmon wrap:",
+    "fullData": "150 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "150.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Smoked Salmon wrap:",
+    "fullData": "2 Simpsons pantry barley wraps",
+    "itemName": "Simpsons pantry barley wraps",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked Salmon wrap:",
+    "fullData": "1 cup grated carrot",
+    "itemName": "grated carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoked Salmon wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked Salmon wrap:",
+    "fullData": "5 tsp of whole eg g mayonnaise (lite)",
+    "itemName": "of whole eg mayonnaise (lite)",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 Bocconcini balls (60g)",
+    "itemName": "Bocconcini balls (60g)",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "8 cherry tomatoes halved",
+    "itemName": "cherry tomatoes halved",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 cups raw spinach",
+    "itemName": "raw spinach",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1/2 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "60 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1/2 apple",
+    "itemName": "apple",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "200 g chicken (raw)",
+    "itemName": "chicken (raw)",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "200.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "3 cups cooked Asian vegetables",
+    "itemName": "cooked Asian vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/2 cup carrot",
+    "itemName": "carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/4 cup brown rice",
+    "itemName": "brown rice",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "9 cashews",
+    "itemName": "cashews",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1 tsp coconut oil for cooking",
+    "itemName": "coconut oil for cooking",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "225 g cooked leanbeef mince",
+    "itemName": "cooked leanbeef mince",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "225.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "0.50 cup black beans",
+    "itemName": "black beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "1.5 cups tinned tomatoes",
+    "itemName": "tinned tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "0.50 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "5 Tbsp avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "0.50 packet Slendier soy fettuccini",
+    "itemName": "Slendier soy fettuccini",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "1/3 cup sweet potato",
+    "itemName": "sweet potato",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "0.25 cup lentils",
+    "itemName": "lentils",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "0.50 cup tomato passata",
+    "itemName": "tomato passata",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "3 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "120 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "120.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "1 packet of roasted chickpeas/fav-va beans",
+    "itemName": "of roasted chickpeas/fav-va beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "0.25 cup quinoa",
+    "itemName": "quinoa",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "3 cups of salad",
+    "itemName": "of salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "0.50 cup carrot",
+    "itemName": "carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken salad:",
+    "fullData": "0.50 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken, Veg. and brown rice:",
+    "fullData": "150 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "150.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken, Veg. and brown rice:",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken, Veg. and brown rice:",
+    "fullData": "1 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken, Veg. and brown rice:",
+    "fullData": "1/2 cup cooked brown rice",
+    "itemName": "cooked brown rice",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken, Veg. and brown rice:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken, Veg. and brown rice:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Fish and Roast veggies:",
+    "fullData": "275 g cooked fish/ seafood",
+    "itemName": "cooked fish/ seafood",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "275.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Fish and Roast veggies:",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Fish and Roast veggies:",
+    "fullData": "1 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Fish and Roast veggies:",
+    "fullData": "1/3 cup cooked sweet potato",
+    "itemName": "cooked sweet potato",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Fish and Roast veggies:",
+    "fullData": "4 tsp red rock deli pesto",
+    "itemName": "red rock deli pesto",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Fish and Roast veggies:",
+    "fullData": "1 1/2 tsp olive oil",
+    "itemName": "1/2  olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "150 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "150.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "2 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "1/3 cup cooked sweet potato",
+    "itemName": "cooked sweet potato",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "5 Tbsp lite cream cheese",
+    "itemName": "lite cream cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "200 g chicken (raw)",
+    "itemName": "chicken (raw)",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "200.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "3 cups cooked Asian vegetables",
+    "itemName": "cooked Asian vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/2 cup carrot",
+    "itemName": "carrot",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/4 cup brown rice",
+    "itemName": "brown rice",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "9 cashews",
+    "itemName": "cashews",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1 tsp coconut oil for cooking",
+    "itemName": "coconut oil for cooking",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "225 g cooked leanbeef mince",
+    "itemName": "cooked leanbeef mince",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "225.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "0.50 cup black beans",
+    "itemName": "black beans",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "1.5 cups tinned tomatoes",
+    "itemName": "tinned tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "0.50 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "5 Tbsp avocado",
+    "itemName": "avocado",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "5.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "0.50 packet Slendier soy fettuccini",
+    "itemName": "Slendier soy fettuccini",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "1/3 cup sweet potato",
+    "itemName": "sweet potato",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "0.25 cup lentils",
+    "itemName": "lentils",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "0.50 cup tomato passata",
+    "itemName": "tomato passata",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "3 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "2 Mt Barker chicken sausages",
+    "itemName": "Mt Barker chicken sausages",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "3 cups salad",
+    "itemName": "salad",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "0.25 cup chickpeas",
+    "itemName": "chickpeas",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "50 g Sandhurst Fat Free Sundried Tomatoes",
+    "itemName": "Sandhurst Fat Free Sundried Tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "50.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "2 tsp of olive oil",
+    "itemName": "of olive oil",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "135 g lean ham",
+    "itemName": "lean ham",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "50 g Bega 50% less fat cheese",
+    "itemName": "Bega 50% less fat cheese",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "50.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "1 recommended wrap",
+    "itemName": "recommended wrap",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "16 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "16.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "0.50 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "9 large deli olives",
+    "itemName": "large deli olives",
+    "sheetName": "ALL MEAL IDEAS",
+    "quantity": "9.0",
+    "unitName": "NA"
+  }
+]

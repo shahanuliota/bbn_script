@@ -1,0 +1,258 @@
+[
+  {
+    "foodName": "Corn thins and Cottage cheese:",
+    "fullData": "1 Block",
+    "itemName": "Block",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar:",
+    "fullData": "1/2 BB bar",
+    "itemName": "BB bar",
+    "sheetName": "Exercise snack",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fava Beans:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "yogurt",
+    "fullData": "80 g yopro yogurt",
+    "itemName": "yopro yogurt",
+    "sheetName": "Exercise snack",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yogurt",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "Exercise snack",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yogurt",
+    "fullData": "3 almonds",
+    "itemName": "almonds",
+    "sheetName": "Exercise snack",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "2 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "Exercise snack",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "1 tsp peabut butter",
+    "itemName": "peabut butter",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "1 Tbsp protein powder in water",
+    "itemName": "protein powder in water",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1/2 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "Exercise snack",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Fruit and protein shake",
+    "fullData": "1 small banana",
+    "itemName": "small banana",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fruit and protein shake",
+    "fullData": "3 cashews",
+    "itemName": "cashews",
+    "sheetName": "Exercise snack",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fruit and protein shake",
+    "fullData": "1 Tbsp protein powder in water",
+    "itemName": "protein powder in water",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Bar:",
+    "fullData": "1 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "Exercise snack",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "yogurt snack",
+    "fullData": "160 g Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "Exercise snack",
+    "quantity": "160.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yogurt snack",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "Exercise snack",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yogurt snack",
+    "fullData": "6 almonds",
+    "itemName": "almonds",
+    "sheetName": "Exercise snack",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Exercise snack",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "Exercise snack",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "Exercise snack",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coffee and Fava:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Coffee and Fava:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fruit and protein shake",
+    "fullData": "1 large banana",
+    "itemName": "large banana",
+    "sheetName": "Exercise snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fruit and protein shake",
+    "fullData": "6 cashews",
+    "itemName": "cashews",
+    "sheetName": "Exercise snack",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fruit and protein shake",
+    "fullData": "2 Tbsp protein powder in water",
+    "itemName": "protein powder in water",
+    "sheetName": "Exercise snack",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  }
+]

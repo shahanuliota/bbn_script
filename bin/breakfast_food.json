@@ -1,0 +1,1658 @@
+[
+  {
+    "foodName": "",
+    "fullData": "1 Block",
+    "itemName": "Block",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "eggs and cooked veg.",
+    "fullData": "1 boiled egg",
+    "itemName": "boiled egg",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "eggs and cooked veg.",
+    "fullData": "3 cups spinach/mushrooms - saut'e in non stick pan",
+    "itemName": "spinach/mushrooms - saut'e in non stick pan",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "eggs and cooked veg.",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 Tbsp coconut yoghurt",
+    "itemName": "coconut yoghurt",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1/2 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Ham wrap:",
+    "fullData": "1 Mt. Bread wrap",
+    "itemName": "Mt. Bread wrap",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham wrap:",
+    "fullData": "45 g ham off the bone",
+    "itemName": "ham off the bone",
+    "sheetName": "Breakfast",
+    "quantity": "45.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham wrap:",
+    "fullData": "1 Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Eg g wrap:",
+    "fullData": "1 egg",
+    "itemName": "egg",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g wrap:",
+    "fullData": "1 Mt. Bread wrap",
+    "itemName": "Mt. Bread wrap",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g wrap:",
+    "fullData": "2 tsp pesto dip",
+    "itemName": "pesto dip",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1/4 cup oat bran",
+    "itemName": "oat bran",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1/2 cup coconut milk",
+    "itemName": "coconut milk",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "1 cup almond milk",
+    "itemName": "almond milk",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "1 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoked salmon and cruskits:",
+    "fullData": "30 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "Breakfast",
+    "quantity": "30.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "smoked salmon and cruskits:",
+    "fullData": "2 cruskits",
+    "itemName": "cruskits",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoked salmon and cruskits:",
+    "fullData": "1 Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "baked beans and eggs",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "baked beans and eggs",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "baked beans and eggs",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bluberry Smoothie",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "2 protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Bluberry Smoothie",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bluberry Smoothie",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bluberry Smoothie",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "eg g wrap",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "eg g wrap",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "eg g wrap",
+    "fullData": "1/4 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "eg g wrap",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt Brekkie",
+    "fullData": "160 Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "Breakfast",
+    "quantity": "160.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt Brekkie",
+    "fullData": "1/2 apple",
+    "itemName": "apple",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt Brekkie",
+    "fullData": "6 cashews",
+    "itemName": "cashews",
+    "sheetName": "Breakfast",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "BACON AND EGGS WITH COOKED VEG.",
+    "fullData": "1 egg",
+    "itemName": "egg",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "BACON AND EGGS WITH COOKED VEG.",
+    "fullData": "2 slices short cut bacon",
+    "itemName": "short cut bacon",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "slices"
+  },
+  {
+    "foodName": "BACON AND EGGS WITH COOKED VEG.",
+    "fullData": "3 cups raw spinach/mushrooms - cook",
+    "itemName": "raw spinach/mushrooms - cook",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "BACON AND EGGS WITH COOKED VEG.",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Breakfast",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "BACON AND EGGS WITH COOKED VEG.",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chicken sausages and fruit",
+    "fullData": "2 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and fruit",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken sausages and fruit",
+    "fullData": "1 mandarin",
+    "itemName": "mandarin",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Green Smoothie:",
+    "fullData": "2 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Green Smoothie:",
+    "fullData": "1 cup almond milk",
+    "itemName": "almond milk",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Green Smoothie:",
+    "fullData": "2 tsp of chia seeds",
+    "itemName": "of chia seeds",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Green Smoothie:",
+    "fullData": "1/2 cup of mixed berries.",
+    "itemName": "of mixed berries.",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Green Smoothie:",
+    "fullData": "3 cups spinach",
+    "itemName": "spinach",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Porridge :",
+    "fullData": "1/4 cup oat bran",
+    "itemName": "oat bran",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge :",
+    "fullData": "1 cup almond milk",
+    "itemName": "almond milk",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge :",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge :",
+    "fullData": "2 tsp of chia seeds",
+    "itemName": "of chia seeds",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Porridge :",
+    "fullData": "2 Tbsp of protein powder",
+    "itemName": "of protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Smoked salmon and cooked veg.",
+    "fullData": "60 g Smoked salmon",
+    "itemName": "Smoked salmon",
+    "sheetName": "Breakfast",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Smoked salmon and cooked veg.",
+    "fullData": "1.5 cups cooked spinack and musrooms",
+    "itemName": "cooked spinack and musrooms",
+    "sheetName": "Breakfast",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Smoked salmon and cooked veg.",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Breakfast",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked salmon and cooked veg.",
+    "fullData": "1/4 avocado.",
+    "itemName": "avocado.",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eg g wrap",
+    "fullData": "1 eg g with",
+    "itemName": "eg with",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Bacon and eg g wrap",
+    "fullData": "2 rashes short cut bacon",
+    "itemName": "rashes short cut bacon",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eg g wrap",
+    "fullData": "1 Simson’s pantry wrap",
+    "itemName": "Simson’s pantry wrap",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eg g wrap",
+    "fullData": "1.5 cup cooked spinach + mushrooms",
+    "itemName": "cooked spinach + mushrooms",
+    "sheetName": "Breakfast",
+    "quantity": "1.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bacon and eg g wrap",
+    "fullData": "1/4 avocado.",
+    "itemName": "avocado.",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and cooked veg.:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and cooked veg.:",
+    "fullData": "3 cups raw spinach/mushrooms - cook",
+    "itemName": "raw spinach/mushrooms - cook",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Eggs and cooked veg.:",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Eggs and cooked veg.:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and cooked veg.:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Berry Smoothie:",
+    "fullData": "3 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Berry Smoothie:",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Berry Smoothie:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Berry Smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Berry Smoothie:",
+    "fullData": "4 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "Breakfast",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Eg g and Bean wrap:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g and Bean wrap:",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g and Bean wrap:",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Eg g and Bean wrap:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g and Bean wrap:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "yoghurt:",
+    "fullData": "160 Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "Breakfast",
+    "quantity": "160.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt:",
+    "fullData": "1 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "yoghurt:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt:",
+    "fullData": "9 cashews",
+    "itemName": "cashews",
+    "sheetName": "Breakfast",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g , bacon and baked beans:",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g , bacon and baked beans:",
+    "fullData": "2 slices short cut bacon",
+    "itemName": "short cut bacon",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "slices"
+  },
+  {
+    "foodName": "Eg g , bacon and baked beans:",
+    "fullData": "3 cups raw spinach/mushrooms - cook",
+    "itemName": "raw spinach/mushrooms - cook",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Eg g , bacon and baked beans:",
+    "fullData": "1/4 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Eg g , bacon and baked beans:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Breakfast",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eg g , bacon and baked beans:",
+    "fullData": "1 1/2 tsp olive oil",
+    "itemName": "1/2  olive oil",
+    "sheetName": "Breakfast",
+    "quantity": "5.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "3 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "3 Tbsp of protein powder",
+    "itemName": "of protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1/2 cup oat bran",
+    "itemName": "oat bran",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1/2 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1 tsp peanut butter",
+    "itemName": "peanut butter",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "2 cups almond milk",
+    "itemName": "almond milk",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Ham and cheese toasted wrap:",
+    "fullData": "1 Mt. Bread wrap",
+    "itemName": "Mt. Bread wrap",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and cheese toasted wrap:",
+    "fullData": "90 g ham off the bone",
+    "itemName": "ham off the bone",
+    "sheetName": "Breakfast",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and cheese toasted wrap:",
+    "fullData": "1 slice Bega 50% less fat tasty cheese",
+    "itemName": "Bega 50% less fat tasty cheese",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "slice"
+  },
+  {
+    "foodName": "Ham and cheese toasted wrap:",
+    "fullData": "2 Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Ham and cheese toasted wrap:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoked salmon and cruskits:",
+    "fullData": "90 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "Breakfast",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "smoked salmon and cruskits:",
+    "fullData": "6 cruskits",
+    "itemName": "cruskits",
+    "sheetName": "Breakfast",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoked salmon and cruskits:",
+    "fullData": "3 Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Bacon and eggs cooked Brekkie:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs cooked Brekkie:",
+    "fullData": "2 rashers shortcut bacon",
+    "itemName": "rashers shortcut bacon",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs cooked Brekkie:",
+    "fullData": "3 cups raw spinach/mushrooms - cook",
+    "itemName": "raw spinach/mushrooms - cook",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Bacon and eggs cooked Brekkie:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Breakfast",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs cooked Brekkie:",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bacon and eggs cooked Brekkie:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Berry smoothie:",
+    "fullData": "4 tbsp protein powder",
+    "itemName": "4 protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "4.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Berry smoothie:",
+    "fullData": "1 1/2 cup blueberries",
+    "itemName": "1/2 blueberries",
+    "sheetName": "Breakfast",
+    "quantity": "5.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Berry smoothie:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Berry smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Berry smoothie:",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Berry smoothie:",
+    "fullData": "2 tsp peanut butter",
+    "itemName": "peanut butter",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Bacon and eggs Wrap:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs Wrap:",
+    "fullData": "2 rashers shortcut bacon",
+    "itemName": "rashers shortcut bacon",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs Wrap:",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs Wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Breakfast",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bacon and eggs Wrap:",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bacon and eggs Wrap:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Yoghurt:",
+    "fullData": "160 Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "Breakfast",
+    "quantity": "160.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Yoghurt:",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Yoghurt:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Yoghurt:",
+    "fullData": "1 mandarin",
+    "itemName": "mandarin",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Yoghurt:",
+    "fullData": "12 cashews",
+    "itemName": "cashews",
+    "sheetName": "Breakfast",
+    "quantity": "12.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Baked beans with salmon and eggs:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Baked beans with salmon and eggs:",
+    "fullData": "30 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "Breakfast",
+    "quantity": "30.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Baked beans with salmon and eggs:",
+    "fullData": "3 cups raw spinach/mushrooms - cook",
+    "itemName": "raw spinach/mushrooms - cook",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Baked beans with salmon and eggs:",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Baked beans with salmon and eggs:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Breakfast",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Baked beans with salmon and eggs:",
+    "fullData": "2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "2 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and fruit:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "4 Tbsp of protein powder",
+    "itemName": "of protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "4.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1/2 cup oat bran",
+    "itemName": "oat bran",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "2 tsp peanut butter",
+    "itemName": "peanut butter",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "2 cups almond milk",
+    "itemName": "almond milk",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "2 tbsp nutritional yeast",
+    "itemName": "nutritional yeast",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1 slice Burgen bread",
+    "itemName": "Burgen bread",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "slice"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1.5 cups of cooked vegetables",
+    "itemName": "of cooked vegetables",
+    "sheetName": "Breakfast",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Breakfast",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "0.25 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1 tsp of olive oil",
+    "itemName": "of olive oil",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "2 rashers shortcut bacon",
+    "itemName": "rashers shortcut bacon",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "1 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "3 cups raw spinach/mushrooms - cook",
+    "itemName": "raw spinach/mushrooms - cook",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Breakfast",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "3/4 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "Breakfast",
+    "quantity": "0.75",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Cooked Brekkie- bacon and eggs:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fruit smoothie:",
+    "fullData": "3 tbsp protein powder",
+    "itemName": "3 protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Fruit smoothie:",
+    "fullData": "160 g Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "Breakfast",
+    "quantity": "160.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Fruit smoothie:",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Fruit smoothie:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Fruit smoothie:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fruit smoothie:",
+    "fullData": "3 cups raw spinach",
+    "itemName": "raw spinach",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Fruit smoothie:",
+    "fullData": "2 cups almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Fruit smoothie:",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Fruit smoothie:",
+    "fullData": "2 tsp natural peanut butter",
+    "itemName": "natural peanut butter",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "4 rashers shortcut bacon",
+    "itemName": "rashers shortcut bacon",
+    "sheetName": "Breakfast",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "2 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Breakfast",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "1/2 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs and Bacon Wrap:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "yoghurt Brekkie:",
+    "fullData": "1 tub (170g) YoPro yoghurt/ Chobani FIT",
+    "itemName": "(170g) YoPro yoghurt/ Chobani FIT",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "tub"
+  },
+  {
+    "foodName": "yoghurt Brekkie:",
+    "fullData": "3 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "yoghurt Brekkie:",
+    "fullData": "2 Tbsp coconut yoghurt",
+    "itemName": "coconut yoghurt",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "yoghurt Brekkie:",
+    "fullData": "1 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt Brekkie:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "yoghurt Brekkie:",
+    "fullData": "9 almonds",
+    "itemName": "almonds",
+    "sheetName": "Breakfast",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "3 tbsp nutritional yeast",
+    "itemName": "nutritional yeast",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1 slice multigrain bread",
+    "itemName": "multigrain bread",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "slice"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1.5 cups of cooked vegetables",
+    "itemName": "of cooked vegetables",
+    "sheetName": "Breakfast",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Breakfast",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "0.25 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1 tsp of olive oil",
+    "itemName": "of olive oil",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Eggs on toast:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "5 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "5.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "3/4 cup oat bran",
+    "itemName": "oat bran",
+    "sheetName": "Breakfast",
+    "quantity": "0.75",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "1 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Porridge:",
+    "fullData": "5 tsp peanut butter",
+    "itemName": "peanut butter",
+    "sheetName": "Breakfast",
+    "quantity": "5.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Chicken sausages and Fruit:",
+    "fullData": "3 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and Fruit:",
+    "fullData": "2 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and Fruit:",
+    "fullData": "1 1/2 cup mixed berries",
+    "itemName": "1/2 mixed berries",
+    "sheetName": "Breakfast",
+    "quantity": "5.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken sausages and Fruit:",
+    "fullData": "1 apple",
+    "itemName": "apple",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and Fruit:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and Fruit:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Breakfast",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Cooked breakfast:",
+    "fullData": "2 eggs",
+    "itemName": "eggs",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked breakfast:",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Breakfast",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Cooked breakfast:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Breakfast",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cooked breakfast:",
+    "fullData": "1/4 cup baked beans",
+    "itemName": "baked beans",
+    "sheetName": "Breakfast",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Cooked breakfast:",
+    "fullData": "1 tsp olive oil for cooking;",
+    "itemName": "olive oil for cooking;",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Breakfast",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "1 cup Hilo milk",
+    "itemName": "Hilo milk",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "Breakfast",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoothie:",
+    "fullData": "4 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "Breakfast",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  }
+]

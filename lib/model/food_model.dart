@@ -1,5 +1,6 @@
 class FoodItem {
   String title;
+  String fullData;
   String itemName;
   String sheetName;
   String quantity;
@@ -7,6 +8,7 @@ class FoodItem {
 
   FoodItem({
     required this.sheetName,
+    required this.fullData,
     required this.title,
     required this.itemName,
     required this.quantity,
@@ -14,10 +16,11 @@ class FoodItem {
   });
 
   Map<String, dynamic> toJson() => {
-    "foodName": title,
-    "itemName": itemName,
-    "sheetName": sheetName,
-    "quantity": quantity,
-    "unitName": unitName,
+    "foodName": title.trim(),
+    "fullData": fullData.trim().replaceAll('  ', ' '),
+    "itemName": itemName.trim(),
+    "sheetName": sheetName.trim(),
+    "quantity": quantity.trim(),
+    "unitName": unitName.trim(),
   };
 }

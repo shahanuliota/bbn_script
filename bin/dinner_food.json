@@ -1,0 +1,1514 @@
+[
+  {
+    "foodName": "chicken and veg.:",
+    "fullData": "60 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Dinner",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken and veg.:",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken and veg.:",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "Dinner",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fish and Pesto Veg.:",
+    "fullData": "110 g cooked fish/ seafood",
+    "itemName": "cooked fish/ seafood",
+    "sheetName": "Dinner",
+    "quantity": "110.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Fish and Pesto Veg.:",
+    "fullData": "1 1/2 cups cooked vegetables",
+    "itemName": "1/2 cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "5.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Fish and Pesto Veg.:",
+    "fullData": "1/2 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Fish and Pesto Veg.:",
+    "fullData": "4 tsp red rock deli pesto",
+    "itemName": "red rock deli pesto",
+    "sheetName": "Dinner",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chicken sausage and salad:",
+    "fullData": "2 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "Dinner",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausage and salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken sausage and salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Savoury mince",
+    "fullData": "90 g lean turkey mince",
+    "itemName": "lean turkey mince",
+    "sheetName": "Dinner",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Savoury mince",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Savoury mince",
+    "fullData": "0.50 cup tomato passata",
+    "itemName": "tomato passata",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Savoury mince",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Fish and roasted veg.:",
+    "fullData": "90 g fish cooked",
+    "itemName": "fish cooked",
+    "sheetName": "Dinner",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Fish and roasted veg.:",
+    "fullData": "1.5 cups of mixed cooked vegetables",
+    "itemName": "of mixed cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Fish and roasted veg.:",
+    "fullData": "300 g cauliflower rice",
+    "itemName": "cauliflower rice",
+    "sheetName": "Dinner",
+    "quantity": "300.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Fish and roasted veg.:",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "80 g chicken (raw)",
+    "itemName": "80  chicken (raw)",
+    "sheetName": "Dinner",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "1.5 cups cooked Asian vegetables",
+    "itemName": "cooked Asian vegetables",
+    "sheetName": "Dinner",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "1/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "Dinner",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "6 cashews",
+    "itemName": "cashews",
+    "sheetName": "Dinner",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "1 Simson’s pantry wrap",
+    "itemName": "Simson’s pantry wrap",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "0.25 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "Dinner",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "1.5 cup raw vegetables (onion, capsicum, mushroom, spinach)",
+    "itemName": "raw vegetables (onion, capsicum, mushroom, spinach)",
+    "sheetName": "Dinner",
+    "quantity": "1.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "2 slice Bega 50% less fat cheese",
+    "itemName": "Bega 50% less fat cheese",
+    "sheetName": "Dinner",
+    "quantity": "2.0",
+    "unitName": "slice"
+  },
+  {
+    "foodName": "chicken Pasta:",
+    "fullData": "30 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Dinner",
+    "quantity": "30.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken Pasta:",
+    "fullData": "0.25 packet Slendier soy fettuccini",
+    "itemName": "Slendier soy fettuccini",
+    "sheetName": "Dinner",
+    "quantity": "0.25",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "chicken Pasta:",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken Pasta:",
+    "fullData": "0.50 cup tomato paste",
+    "itemName": "tomato paste",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken Pasta:",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "mexican chilli con carne:",
+    "fullData": "90 g lean beef mince",
+    "itemName": "lean beef mince",
+    "sheetName": "Dinner",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "mexican chilli con carne:",
+    "fullData": "1/4 cup black beans",
+    "itemName": "black beans",
+    "sheetName": "Dinner",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "mexican chilli con carne:",
+    "fullData": "0.50 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "mexican chilli con carne:",
+    "fullData": "1/4 avocado.",
+    "itemName": "avocado.",
+    "sheetName": "Dinner",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Roast dinner (beef)",
+    "fullData": "80 g (raw) lean beef steak/ roast",
+    "itemName": "(raw) lean beef steak/ roast",
+    "sheetName": "Dinner",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Roast dinner (beef)",
+    "fullData": "1.5 cups cooked/roasted vegetables",
+    "itemName": "cooked/roasted  vegetables",
+    "sheetName": "Dinner",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Roast dinner (beef)",
+    "fullData": "1/2 cup corn/peas",
+    "itemName": "corn/peas",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Roast dinner (beef)",
+    "fullData": "1 tsp olive oil for cooking",
+    "itemName": "olive oil for cooking",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Chicken and cooked veg.",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Dinner",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken and cooked veg.",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken and cooked veg.",
+    "fullData": "1/2 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken and cooked veg.",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "Dinner",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and cooked veg.",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Fish and pesto cooked veg.",
+    "fullData": "165 g cooked fish/ seafood",
+    "itemName": "cooked fish/ seafood",
+    "sheetName": "Dinner",
+    "quantity": "165.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Fish and pesto cooked veg.",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Fish and pesto cooked veg.",
+    "fullData": "1/2 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Fish and pesto cooked veg.",
+    "fullData": "4 tsp red rock deli pesto",
+    "itemName": "red rock deli pesto",
+    "sheetName": "Dinner",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Fish and pesto cooked veg.",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "3 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and salad",
+    "fullData": "1/4 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "Dinner",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoked salmon wrap",
+    "fullData": "60 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "Dinner",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "smoked salmon wrap",
+    "fullData": "1 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoked salmon wrap",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "smoked salmon wrap",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoked salmon wrap",
+    "fullData": "75 g lite cream cheese",
+    "itemName": "lite cream cheese",
+    "sheetName": "Dinner",
+    "quantity": "75.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Seafood dinner:",
+    "fullData": "165 g (raw) seafood mix or prawns",
+    "itemName": "(raw) seafood mix or prawns",
+    "sheetName": "Dinner",
+    "quantity": "165.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Seafood dinner:",
+    "fullData": "2 cups steamed asperagus",
+    "itemName": "steamed asperagus",
+    "sheetName": "Dinner",
+    "quantity": "2.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Seafood dinner:",
+    "fullData": "1.5 steamed broccolini",
+    "itemName": "steamed broccolini",
+    "sheetName": "Dinner",
+    "quantity": "1.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Seafood dinner:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Seafood dinner:",
+    "fullData": "3 tsp pesto mixed through",
+    "itemName": "pesto mixed through",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "1 Mt. Bread wrap",
+    "itemName": "Mt. Bread wrap",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "45 g lean ham",
+    "itemName": "lean ham",
+    "sheetName": "Dinner",
+    "quantity": "45.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "1/2 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "5 kalamate olives",
+    "itemName": "kalamate olives",
+    "sheetName": "Dinner",
+    "quantity": "5.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "2 slices Bega 50% less fat cheese",
+    "itemName": "Bega 50% less fat cheese",
+    "sheetName": "Dinner",
+    "quantity": "2.0",
+    "unitName": "slices"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "120 g (raw) chicken/beef",
+    "itemName": "(raw) chicken/beef",
+    "sheetName": "Dinner",
+    "quantity": "120.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "3 cups raw vegetables",
+    "itemName": "raw vegetables",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "2/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "Dinner",
+    "quantity": "0.6666666666666666",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "stir-fry:",
+    "fullData": "9 cashews",
+    "itemName": "cashews",
+    "sheetName": "Dinner",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 Bocconcini balls (60g)",
+    "itemName": "Bocconcini balls (60g)",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "8 cherry tomatoes halved",
+    "itemName": "cherry tomatoes halved",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "3 cups raw spinach leaves",
+    "itemName": "raw spinach leaves",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Bocconcini salad:",
+    "fullData": "1/4 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "Dinner",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Light dinner:",
+    "fullData": "135 g Deli meat",
+    "itemName": "Deli meat",
+    "sheetName": "Dinner",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light dinner:",
+    "fullData": "1 cup carot sticks",
+    "itemName": "carot sticks",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Light dinner:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light dinner:",
+    "fullData": "5 black olives",
+    "itemName": "black olives",
+    "sheetName": "Dinner",
+    "quantity": "5.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light dinner:",
+    "fullData": "2 Tbsp hummus dip",
+    "itemName": "hummus dip",
+    "sheetName": "Dinner",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Cruskits and ham:",
+    "fullData": "4 Cruskits",
+    "itemName": "Cruskits",
+    "sheetName": "Dinner",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cruskits and ham:",
+    "fullData": "135 g ham off the bone",
+    "itemName": "ham off the bone",
+    "sheetName": "Dinner",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Cruskits and ham:",
+    "fullData": "3 Tbsp lite cream cheese",
+    "itemName": "lite cream cheese",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Cruskits and ham:",
+    "fullData": "1/2 cup grapes",
+    "itemName": "grapes",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken and cooked veg.",
+    "fullData": "120 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Dinner",
+    "quantity": "120.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken and cooked veg.",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken and cooked veg.",
+    "fullData": "1 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken and cooked veg.",
+    "fullData": "1/4 avocado",
+    "itemName": "avocado",
+    "sheetName": "Dinner",
+    "quantity": "0.25",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken and cooked veg.",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "fish and pesto veggies:",
+    "fullData": "220 g cooked fish/ seafood",
+    "itemName": "cooked fish/ seafood",
+    "sheetName": "Dinner",
+    "quantity": "220.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "fish and pesto veggies:",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "fish and pesto veggies:",
+    "fullData": "1 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "fish and pesto veggies:",
+    "fullData": "4 tsp red rock deli pesto",
+    "itemName": "red rock deli pesto",
+    "sheetName": "Dinner",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "fish and pesto veggies:",
+    "fullData": "1 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "4 Mt. Barker chicken sausages",
+    "itemName": "Mt. Barker chicken sausages",
+    "sheetName": "Dinner",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken sausages and salad:",
+    "fullData": "1/2 cup 4 bean mix",
+    "itemName": "4 bean mix",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Light dinner",
+    "fullData": "90 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "Dinner",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Light dinner",
+    "fullData": "4 Cruskits",
+    "itemName": "Cruskits",
+    "sheetName": "Dinner",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light dinner",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Light dinner",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Light dinner",
+    "fullData": "4Tbsp lite cream cheese",
+    "itemName": "lite cream cheese",
+    "sheetName": "Dinner",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "90 g lean ham",
+    "itemName": "90  lean ham",
+    "sheetName": "Dinner",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "2 slices Bega 50% less fat cheese",
+    "itemName": "Bega 50% less fat cheese",
+    "sheetName": "Dinner",
+    "quantity": "2.0",
+    "unitName": "slices"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "1 simpsons Pantry wrap",
+    "itemName": "simpsons Pantry wrap",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "0.50 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "6 large deli olives",
+    "itemName": "large deli olives",
+    "sheetName": "Dinner",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Homemade pizza:",
+    "fullData": "3 cup salad on the side",
+    "itemName": "salad on the side",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir-fry:",
+    "fullData": "160 g chicken (raw)",
+    "itemName": "chicken (raw)",
+    "sheetName": "Dinner",
+    "quantity": "160.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Stir-fry:",
+    "fullData": "3 cups cooked Asian vegetables",
+    "itemName": "cooked Asian vegetables",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Stir-fry:",
+    "fullData": "1/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "Dinner",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir-fry:",
+    "fullData": "1/2 cup carrot",
+    "itemName": "carrot",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir-fry:",
+    "fullData": "6 cashews",
+    "itemName": "cashews",
+    "sheetName": "Dinner",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Stir-fry:",
+    "fullData": "1 tsp coconut oil for cooking",
+    "itemName": "coconut oil for cooking",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "225 g cooked leanbeef mince",
+    "itemName": "cooked leanbeef mince",
+    "sheetName": "Dinner",
+    "quantity": "225.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "0.50 cup black beans",
+    "itemName": "black beans",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "1.5 cups tinned tomatoes",
+    "itemName": "tinned tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chilli con carne:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken Pasta:",
+    "fullData": "135 g cooked chicken mince",
+    "itemName": "cooked chicken mince",
+    "sheetName": "Dinner",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken Pasta:",
+    "fullData": "50 g (dry) Slendier soy fettuccini",
+    "itemName": "(dry) Slendier soy fettuccini",
+    "sheetName": "Dinner",
+    "quantity": "50.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken Pasta:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken Pasta:",
+    "fullData": "0.50 cup lentils",
+    "itemName": "lentils",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken Pasta:",
+    "fullData": "0.50 cup tomato passata",
+    "itemName": "tomato passata",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken Pasta:",
+    "fullData": "2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Dinner",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "chicken & sundried tomato salad",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Dinner",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken & sundried tomato salad",
+    "fullData": "2 Mt Barker chicken sausages",
+    "itemName": "Mt Barker chicken sausages",
+    "sheetName": "Dinner",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken & sundried tomato salad",
+    "fullData": "3 cups salad",
+    "itemName": "salad",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "chicken & sundried tomato salad",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "chicken & sundried tomato salad",
+    "fullData": "0.25 cup chickpeas",
+    "itemName": "chickpeas",
+    "sheetName": "Dinner",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "chicken & sundried tomato salad",
+    "fullData": "50 g Sandhurst Fat Free Sundried Tomatoes",
+    "itemName": "Sandhurst Fat Free Sundried Tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "50.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "chicken & sundried tomato salad",
+    "fullData": "2 tsp of olive oil",
+    "itemName": "of olive oil",
+    "sheetName": "Dinner",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Chicken, Veg. and brown rice:",
+    "fullData": "150 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Dinner",
+    "quantity": "150.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken, Veg. and brown rice:",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken, Veg. and brown rice:",
+    "fullData": "1 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken, Veg. and brown rice:",
+    "fullData": "1/2 cup cooked brown rice",
+    "itemName": "cooked brown rice",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken, Veg. and brown rice:",
+    "fullData": "1/2 avocado",
+    "itemName": "avocado",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken, Veg. and brown rice:",
+    "fullData": "1/2 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Fish and Roast veggies:",
+    "fullData": "275 g cooked fish/ seafood",
+    "itemName": "cooked fish/ seafood",
+    "sheetName": "Dinner",
+    "quantity": "275.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Fish and Roast veggies:",
+    "fullData": "3 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Fish and Roast veggies:",
+    "fullData": "1 cup cooked carrot",
+    "itemName": "cooked carrot",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Fish and Roast veggies:",
+    "fullData": "1/3 cup cooked sweet potato",
+    "itemName": "cooked sweet potato",
+    "sheetName": "Dinner",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Fish and Roast veggies:",
+    "fullData": "4 tsp red rock deli pesto",
+    "itemName": "red rock deli pesto",
+    "sheetName": "Dinner",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Fish and Roast veggies:",
+    "fullData": "1 1/2 tsp olive oil",
+    "itemName": "1/2  olive oil",
+    "sheetName": "Dinner",
+    "quantity": "5.5",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "150 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "Dinner",
+    "quantity": "150.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "2 mountain bread wrap",
+    "itemName": "mountain bread wrap",
+    "sheetName": "Dinner",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "3 cups mixed salad",
+    "itemName": "mixed salad",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "1/3 cup cooked sweet potato",
+    "itemName": "cooked sweet potato",
+    "sheetName": "Dinner",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Smoked salmon wrap:",
+    "fullData": "5 Tbsp lite cream cheese",
+    "itemName": "lite cream cheese",
+    "sheetName": "Dinner",
+    "quantity": "5.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "200 g chicken (raw)",
+    "itemName": "chicken (raw)",
+    "sheetName": "Dinner",
+    "quantity": "200.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "3 cups cooked Asian vegetables",
+    "itemName": "cooked Asian vegetables",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/3 cup water chestnuts",
+    "itemName": "water chestnuts",
+    "sheetName": "Dinner",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/2 cup carrot",
+    "itemName": "carrot",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1/4 cup brown rice",
+    "itemName": "brown rice",
+    "sheetName": "Dinner",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "9 cashews",
+    "itemName": "cashews",
+    "sheetName": "Dinner",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Stir fry:",
+    "fullData": "1 tsp coconut oil for cooking",
+    "itemName": "coconut oil for cooking",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "225 g cooked leanbeef mince",
+    "itemName": "cooked leanbeef mince",
+    "sheetName": "Dinner",
+    "quantity": "225.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "0.50 cup black beans",
+    "itemName": "black beans",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "1.5 cups tinned tomatoes",
+    "itemName": "tinned tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "0.50 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Mexican Chilli con Carne",
+    "fullData": "5 Tbsp avocado",
+    "itemName": "avocado",
+    "sheetName": "Dinner",
+    "quantity": "5.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Dinner",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "0.50 packet Slendier soy fettuccini",
+    "itemName": "Slendier soy fettuccini",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "1/3 cup sweet potato",
+    "itemName": "sweet potato",
+    "sheetName": "Dinner",
+    "quantity": "0.3333333333333333",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "0.25 cup lentils",
+    "itemName": "lentils",
+    "sheetName": "Dinner",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "0.50 cup tomato passata",
+    "itemName": "tomato passata",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken pasta:",
+    "fullData": "3 tsp olive oil",
+    "itemName": "olive oil",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "90 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Dinner",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "2 Mt Barker chicken sausages",
+    "itemName": "Mt Barker chicken sausages",
+    "sheetName": "Dinner",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "3 cups salad",
+    "itemName": "salad",
+    "sheetName": "Dinner",
+    "quantity": "3.0",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "0.25 cup chickpeas",
+    "itemName": "chickpeas",
+    "sheetName": "Dinner",
+    "quantity": "0.25",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "50 g Sandhurst Fat Free Sundried Tomatoes",
+    "itemName": "Sandhurst Fat Free Sundried Tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "50.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken sausages and salad:",
+    "fullData": "2 tsp of olive oil",
+    "itemName": "of olive oil",
+    "sheetName": "Dinner",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "135 g lean ham",
+    "itemName": "lean ham",
+    "sheetName": "Dinner",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "50 g Bega 50% less fat cheese",
+    "itemName": "Bega 50% less fat cheese",
+    "sheetName": "Dinner",
+    "quantity": "50.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "1 recommended wrap",
+    "itemName": "recommended wrap",
+    "sheetName": "Dinner",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "16 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Dinner",
+    "quantity": "16.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "0.50 cup tomato puree",
+    "itemName": "tomato puree",
+    "sheetName": "Dinner",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "1.5 cups cooked vegetables",
+    "itemName": "cooked vegetables",
+    "sheetName": "Dinner",
+    "quantity": "1.5",
+    "unitName": "cups"
+  },
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "9 large deli olives",
+    "itemName": "large deli olives",
+    "sheetName": "Dinner",
+    "quantity": "9.0",
+    "unitName": "NA"
+  }
+]

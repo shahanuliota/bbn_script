@@ -1,0 +1,634 @@
+[
+  {
+    "foodName": "Ham and cheese wrap:",
+    "fullData": "1 Block",
+    "itemName": "Block",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar:",
+    "fullData": "1/2 BB bar",
+    "itemName": "BB bar",
+    "sheetName": "Morning snack",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Fava Beans:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "80 g yopro yogurt",
+    "itemName": "yopro yogurt",
+    "sheetName": "Morning snack",
+    "quantity": "80.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "Morning snack",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "3 almonds",
+    "itemName": "almonds",
+    "sheetName": "Morning snack",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "2 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "Morning snack",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "1 tsp peabut butter",
+    "itemName": "peabut butter",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Peanut butter corn thins:",
+    "fullData": "1 Tbsp protein powder in water",
+    "itemName": "protein powder in water",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1/2 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "Morning snack",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Chicken and fruit:",
+    "fullData": "30 g cooked chicken",
+    "itemName": "cooked chicken",
+    "sheetName": "Morning snack",
+    "quantity": "30.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Chicken and fruit:",
+    "fullData": "1/2 apple",
+    "itemName": "apple",
+    "sheetName": "Morning snack",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Chicken and fruit:",
+    "fullData": "3 almonds",
+    "itemName": "almonds",
+    "sheetName": "Morning snack",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and fruit:",
+    "fullData": "45 g sliced lean ham/ turkey off bone",
+    "itemName": "sliced lean ham/ turkey off bone",
+    "sheetName": "Morning snack",
+    "quantity": "45.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and fruit:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Ham and fruit:",
+    "fullData": "3 cashews",
+    "itemName": "cashews",
+    "sheetName": "Morning snack",
+    "quantity": "3.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "veggie stick and dip:",
+    "fullData": "1/2 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "Morning snack",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "veggie stick and dip:",
+    "fullData": "60 g high protein cottage cheese",
+    "itemName": "high protein cottage cheese",
+    "sheetName": "Morning snack",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and cream cheese",
+    "fullData": "2 corn thins",
+    "itemName": "corn thins",
+    "sheetName": "Morning snack",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and cream cheese",
+    "fullData": "45 g sliced ham off the bone/turkey",
+    "itemName": "sliced ham off the bone/turkey",
+    "sheetName": "Morning snack",
+    "quantity": "45.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and cream cheese",
+    "fullData": "1Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 Tbsp coconut yogurt",
+    "itemName": "coconut yogurt",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1/2 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "Morning snack",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Bar:",
+    "fullData": "1 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "Morning snack",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "160 g Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "Morning snack",
+    "quantity": "160.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "1/2 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "Morning snack",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "yoghurt",
+    "fullData": "6 almonds",
+    "itemName": "almonds",
+    "sheetName": "Morning snack",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "veggie stick and ham:",
+    "fullData": "90 g sliced ham/ turkey off the bone",
+    "itemName": "sliced ham/ turkey off the bone",
+    "sheetName": "Morning snack",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "veggie stick and ham:",
+    "fullData": "1 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "veggie stick and ham:",
+    "fullData": "2 Tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "Morning snack",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Morning snack",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "Morning snack",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "Morning snack",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coffee and Fava:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Coffee and Fava:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "pesto eggs:",
+    "fullData": "2 boiled egg",
+    "itemName": "boiled egg",
+    "sheetName": "Morning snack",
+    "quantity": "2.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "pesto eggs:",
+    "fullData": "4 tsp pesto",
+    "itemName": "pesto",
+    "sheetName": "Morning snack",
+    "quantity": "4.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "pesto eggs:",
+    "fullData": "0.50 cup chickpeas",
+    "itemName": "chickpeas",
+    "sheetName": "Morning snack",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Corn thins and Cottage cheese:",
+    "fullData": "4 cruskits/ corn thins",
+    "itemName": "cruskits/ corn thins",
+    "sheetName": "Morning snack",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Corn thins and Cottage cheese:",
+    "fullData": "1/2 cup high protein cottage cheese",
+    "itemName": "high protein cottage cheese",
+    "sheetName": "Morning snack",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Tuna and Beans:",
+    "fullData": "95 g tinned tuna in olive oil",
+    "itemName": "tinned tuna in olive oil",
+    "sheetName": "Morning snack",
+    "quantity": "95.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Tuna and Beans:",
+    "fullData": "0.50 cup four bean mix",
+    "itemName": "four bean mix",
+    "sheetName": "Morning snack",
+    "quantity": "0.5",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Cruskits with ham and cream cheese:",
+    "fullData": "4 cruskits/ corn thins",
+    "itemName": "cruskits/ corn thins",
+    "sheetName": "Morning snack",
+    "quantity": "4.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Cruskits with ham and cream cheese:",
+    "fullData": "90 g ham off the bone",
+    "itemName": "ham off the bone",
+    "sheetName": "Morning snack",
+    "quantity": "90.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Cruskits with ham and cream cheese:",
+    "fullData": "2 Tbsp light cream cheese",
+    "itemName": "light cream cheese",
+    "sheetName": "Morning snack",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "2 Tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Morning snack",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "2 Tbsp coconut yogurt",
+    "itemName": "coconut yogurt",
+    "sheetName": "Morning snack",
+    "quantity": "2.0",
+    "unitName": "Tbsp"
+  },
+  {
+    "foodName": "Coconut Mousse:",
+    "fullData": "1 cup mixed berries",
+    "itemName": "mixed berries",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoked salmon and Pear",
+    "fullData": "60 g smoked salmon",
+    "itemName": "smoked salmon",
+    "sheetName": "Morning snack",
+    "quantity": "60.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "smoked salmon and Pear",
+    "fullData": "1 pear",
+    "itemName": "pear",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "smoked salmon and Pear",
+    "fullData": "6 cashews",
+    "itemName": "cashews",
+    "sheetName": "Morning snack",
+    "quantity": "6.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Bar and Fava",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "Yogurt",
+    "fullData": "160 g Yopro yoghurt",
+    "itemName": "Yopro yoghurt",
+    "sheetName": "Morning snack",
+    "quantity": "160.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Yogurt",
+    "fullData": "1 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "Yogurt",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Yogurt",
+    "fullData": "9 almonds",
+    "itemName": "almonds",
+    "sheetName": "Morning snack",
+    "quantity": "9.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and veggie sticks:",
+    "fullData": "135 g sliced ham/ turkey off the bone",
+    "itemName": "sliced ham/ turkey off the bone",
+    "sheetName": "Morning snack",
+    "quantity": "135.0",
+    "unitName": "g"
+  },
+  {
+    "foodName": "Ham and veggie sticks:",
+    "fullData": "1 cup carrot sticks",
+    "itemName": "carrot sticks",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "Ham and veggie sticks:",
+    "fullData": "8 cherry tomatoes",
+    "itemName": "cherry tomatoes",
+    "sheetName": "Morning snack",
+    "quantity": "8.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Ham and veggie sticks:",
+    "fullData": "3 tbsp hummus",
+    "itemName": "hummus",
+    "sheetName": "Morning snack",
+    "quantity": "3.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tbsp protein powder",
+    "itemName": "protein powder",
+    "sheetName": "Morning snack",
+    "quantity": "2.0",
+    "unitName": "tbsp"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup strawberries",
+    "itemName": "strawberries",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup blueberries",
+    "itemName": "blueberries",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "1 cup almond milk unsweetened",
+    "itemName": "almond milk unsweetened",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "cup"
+  },
+  {
+    "foodName": "smoothie:",
+    "fullData": "2 tsp chia seeds",
+    "itemName": "chia seeds",
+    "sheetName": "Morning snack",
+    "quantity": "2.0",
+    "unitName": "tsp"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "Coffee and Bar:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "coffee bar and fava:",
+    "fullData": "1/2 BB Bar",
+    "itemName": "BB Bar",
+    "sheetName": "Morning snack",
+    "quantity": "0.5",
+    "unitName": "NA"
+  },
+  {
+    "foodName": "coffee bar and fava:",
+    "fullData": "1 packet fava beans",
+    "itemName": "fava beans",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "packet"
+  },
+  {
+    "foodName": "coffee bar and fava:",
+    "fullData": "1 small skim/ soy coffee",
+    "itemName": "small skim/ soy coffee",
+    "sheetName": "Morning snack",
+    "quantity": "1.0",
+    "unitName": "NA"
+  }
+]
